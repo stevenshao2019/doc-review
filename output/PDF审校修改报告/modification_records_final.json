@@ -1,0 +1,587 @@
+[
+  {
+    "page": 7,
+    "original": "菲利普·阿立耶斯",
+    "suggestion": "菲利普·阿利埃斯",
+    "type": "name",
+    "reason": "姓氏＂阿立耶斯＂拼写不规范。该法国历史学家的姓氏 Ariès 标准汉译为＂阿利埃斯＂或＂阿里埃斯＂，百度百科词条及北京大学出版社《儿童的世纪》中译本均统一使用＂菲利浦·阿利埃斯＂。原文中英文拼写亦缺少",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 10,
+    "original": "阿布拉姆斯",
+    "suggestion": "艾布拉姆斯",
+    "type": "name",
+    "reason": "姓氏＂阿布拉姆斯＂非规范译名。该著名文学批评家的标准汉译为＂艾布拉姆斯＂（见维基百科、百度百科及各图书馆编目）。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 11,
+    "original": "科雷",
+    "suggestion": "科里",
+    "type": "name",
+    "reason": "姓氏＂科雷＂拼写不规范。Gerald Corey 的标准汉译为＂杰拉德·科里＂或简称＂科里＂（见中国轻工业出版社中译本《心理咨询与治疗的理论及实践》）。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 15,
+    "original": "College English",
+    "suggestion": "College Literature",
+    "type": "citation",
+    "reason": "期刊名称错误：此评论实际发表于 College Literature，而非 College English。此外 \"32. 3\" 中句点后有冗余空格。",
+    "status": "applied",
+    "source": "https://doi.org/10.1353/lit.2005.0036"
+  },
+  {
+    "page": 17,
+    "original": "麦克·怀特",
+    "suggestion": "迈克尔·怀特",
+    "type": "name",
+    "reason": "名字＂麦克＂在大陆简体出版物中不规范。Michael 的标准新华社音译为＂迈克尔＂，叙事疗法创始人 Michael White 在大陆学界通用＂迈克尔·怀特＂（见华东理工大学出版社中译本）。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 20,
+    "original": "《阅读家庭: 家庭系统与文学研究》",
+    "suggestion": "《阅读家庭：家庭系统与文学研究》",
+    "type": "punctuation",
+    "reason": "中文书名中的冒号应使用全角“：”，且全角冒号后不应留半角空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 21,
+    "original": "《女武士》",
+    "suggestion": "《女勇士》",
+    "type": "name",
+    "reason": "汤亭亭（Maxine Hong Kingston）的英文书名 The Woman Warrior 在大陆的标准中译名为《女勇士》（漓江出版社中译本），而非《女武士》。＂勇士＂与＂武士＂含义不同，后者指",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 30,
+    "original": "托德·季特林",
+    "suggestion": "托德·吉特林",
+    "type": "name",
+    "reason": "姓氏＂季特林＂为台湾译法。Todd Gitlin 在大陆学界的标准译名为＂托德·吉特林＂（见其著作《新左派运动的媒介镜像》中译本）。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 33,
+    "original": "路易莎·梅·阿尔科特",
+    "suggestion": "路易莎·梅·奥尔科特",
+    "type": "name",
+    "reason": "姓氏＂阿尔科特＂非规范译名。Louisa May Alcott 的标准汉译为＂路易莎·梅·奥尔科特＂（见百度百科、维基百科）。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 34,
+    "original": "肯·基西",
+    "suggestion": "肯·凯西",
+    "type": "typo",
+    "reason": "Ken Kesey 的中文人名有误：第25页（行1020）正确写作“肯·凯西”,此处却写作“肯·基西”,前后不一致且不符合通用译名规范。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 34,
+    "original": "《第五屠场》",
+    "suggestion": "《五号屠场》",
+    "type": "name",
+    "reason": "书名中译不规范。Kurt Vonnegut 的经典小说 Slaughterhouse-Five 在大陆的标准中译名为《五号屠场》（译林出版社虞建华译），而非《第五屠场》。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 37,
+    "original": "国国家图书奖小说奖",
+    "suggestion": "美国国家图书奖小说奖",
+    "type": "typo",
+    "reason": "缺少\"美\"字，首字\"国\"与后文\"国家\"重复",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 42,
+    "original": "Neo - domestic fiction",
+    "suggestion": "Neo-domestic fiction",
+    "type": "format",
+    "reason": "\"neo-\"为前缀，与后续单词连写时连字符两侧不应有空格",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 44,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "typo",
+    "reason": "匈牙利裔家庭治疗师Ivan Boszormenyi-Nagy的姓氏拼写错误，应以\"y\"结尾而非\"i\"",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 57,
+    "original": "stuck - together - ness",
+    "suggestion": "stuck-togetherness",
+    "type": "format",
+    "reason": "合成词中连字符两端不应有空格，该词为家庭系统理论术语，应连写为一个词",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 69,
+    "original": "overadequate- inadequate reciprocity",
+    "suggestion": "overadequate-inadequate reciprocity",
+    "type": "format",
+    "reason": "连字符前多出一个空格，\"inadequate\"前的不应有空格",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 76,
+    "original": "玛丽· 帕罗特( Mary Lou Morrison Parrott)",
+    "suggestion": "玛丽·帕罗特(Mary Lou Morrison Parrott)",
+    "type": "format",
+    "reason": "中文人名\"玛丽\"与\"帕罗特\"之间的间隔号后有多余空格",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 80,
+    "original": "做出了十分戏剧化的( 也是他最不愿意做的) 事情",
+    "suggestion": "做出了十分戏剧化的(也是他最不愿意做的)事情",
+    "type": "format",
+    "reason": "括号内侧及外侧均有多余空格",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 81,
+    "original": "强势性/ 被动性的二重奏",
+    "suggestion": "强势性/被动性的二重奏",
+    "type": "format",
+    "reason": "斜杠后有多余空格",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 90,
+    "original": "心理生存( psychic survival) 代替",
+    "suggestion": "心理生存(psychic survival)代替",
+    "type": "format",
+    "reason": "英文括号前有多余空格",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 109,
+    "original": "第二章　\n幻觉、欺骗与六十年代小说中的“ 出轨社会”",
+    "suggestion": "第二章　\n幻觉、欺骗与六十年代小说中的\"出轨社会\"",
+    "type": "punctuation",
+    "reason": "左双引号后有多余空格。全书几乎所有引号开头均有此问题，应为排版格式错误。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 109,
+    "original": "一种掩饰出轨行为的办法和为被冷落的伴侣“ 着想” 的手段",
+    "suggestion": "一种掩饰出轨行为的办法和为被冷落的伴侣\"着想\"的手段",
+    "type": "punctuation",
+    "reason": "左双引号后多余空格，应紧接正文。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 109,
+    "original": "希望在‘ 旧道德秩序的夕阳中’",
+    "suggestion": "希望在'旧道德秩序的夕阳中'",
+    "type": "punctuation",
+    "reason": "左单引号后有多余空格。全书中英文单引号后空格问题普遍存在。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 109,
+    "original": "对自我( selfhood) 的确认",
+    "suggestion": "对自我(selfhood)的确认",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。英文括号内的内容与括号之间不应有空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 109,
+    "original": "审美-宗教的愿望( aes-\nthetic-religious \ndesires)",
+    "suggestion": "审美-宗教的愿望(aesthetic-religious desires)",
+    "type": "punctuation",
+    "reason": "左括号后有多余空格；\"aesthetic-religious\"因PDF换行被拆分，应连写并去除多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 109,
+    "original": "Willam",
+    "suggestion": "William",
+    "type": "citation",
+    "reason": "作者名\"Willam\"拼写错误，缺少字母\"i\"，应为\"William\"。",
+    "status": "applied",
+    "source": "多所大学图书馆目录（俄亥俄州立大学、德克萨斯大学泰勒分校等）均显示作者名为William J. Matta。"
+  },
+  {
+    "page": 110,
+    "original": "爱欲乌托邦主义( erotic \nutopianism)",
+    "suggestion": "爱欲乌托邦主义(erotic utopianism)",
+    "type": "punctuation",
+    "reason": "左括号后有多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 111,
+    "original": "《夫妇们》‘ 并不真的与性有关",
+    "suggestion": "《夫妇们》'并不真的与性有关",
+    "type": "punctuation",
+    "reason": "左单引号后有多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 111,
+    "original": "让“ 性” 这一行为解决他们的心理危机",
+    "suggestion": "让\"性\"这一行为解决他们的心理危机",
+    "type": "punctuation",
+    "reason": "左双引号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 112,
+    "original": "被‘ 上帝自己的闪\n电’ 击中",
+    "suggestion": "被'上帝自己的闪电'击中",
+    "type": "punctuation",
+    "reason": "左单引号后多余空格；\"闪/电\"因换行拆分应连写。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 113,
+    "original": "罗伯特·斯滕伯格( Robert \n\nSternberg)",
+    "suggestion": "罗伯特·斯滕伯格(Robert Sternberg)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 113,
+    "original": "爱情三角理论” ( triangular\n\ntheory\n\nof\n\nlove)",
+    "suggestion": "爱情三角理论\"(triangular theory of love)",
+    "type": "punctuation",
+    "reason": "左括号前多余空格，右引号与左括号之间不应有空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 113,
+    "original": "“ 没有承诺的亲密感",
+    "suggestion": "\"没有承诺的亲密感",
+    "type": "punctuation",
+    "reason": "左双引号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 113,
+    "original": "沉默的大多数” ( silent \nmajority)",
+    "suggestion": "沉默的大多数\"(silent majority)",
+    "type": "punctuation",
+    "reason": "左括号前多余空格；\"majority\"前多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 114,
+    "original": "约翰·库伯( John \nCuber)",
+    "suggestion": "约翰·库伯(John Cuber)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 115,
+    "original": "系统理论( systems \ntheory)",
+    "suggestion": "系统理论(systems theory)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 115,
+    "original": "互相\n平衡( reciprocal \nequilibrium)",
+    "suggestion": "互相\n平衡(reciprocal equilibrium)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 116,
+    "original": "自由企业( free \nenter-\nprise)",
+    "suggestion": "自由企业(free enterprise)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格；\"enterprise\"因换行断字应连写。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 116,
+    "original": "Re - elect",
+    "suggestion": "Re-elect",
+    "type": "punctuation",
+    "reason": "英文连字符两侧有多余空格，应去掉空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 116,
+    "original": "星期六之夜大屠杀” ( Saturday \nNight \nMassacre)",
+    "suggestion": "星期六之夜大屠杀\"(Saturday Night Massacre)",
+    "type": "punctuation",
+    "reason": "左括号前多余空格，左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 119,
+    "original": "平克·弗洛伊德《母亲》( Pink \nFloyd, \n“ Mother” )",
+    "suggestion": "平克·弗洛伊德《母亲》(Pink Floyd, \"Mother\")",
+    "type": "punctuation",
+    "reason": "左括号后多余空格；右括号前多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 120,
+    "original": "情感离异” ———这是前文中所谈及的",
+    "suggestion": "情感离异\"———这是前文中所谈及的",
+    "type": "punctuation",
+    "reason": "左双引号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 124,
+    "original": "大卫·里斯曼",
+    "suggestion": "大卫·理斯曼",
+    "type": "name",
+    "reason": "姓氏＂里斯曼＂非大陆规范译名。David Riesman 的标准汉译为＂大卫·理斯曼＂（南京大学出版社《孤独的人群》中译本及各大图书馆编目均采用）。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 126,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "citation",
+    "reason": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。Ivan Boszormenyi-Nagy 是家庭治疗领域的匈牙利裔美国精神科先驱，其姓氏中的 \"N",
+    "status": "applied",
+    "source": "Ivan Boszormenyi-Nagy（1920-2007），家庭治疗师，其著作署名均为 Boszormenyi-N"
+  },
+  {
+    "page": 140,
+    "original": "原生家庭戏剧( family \n\ndrama)",
+    "suggestion": "原生家庭戏剧(family drama)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 143,
+    "original": "艾弗莱特家庭( the \nEverett \nfamily)",
+    "suggestion": "艾弗莱特家庭(the Everett family)",
+    "type": "punctuation",
+    "reason": "左括号后多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 145,
+    "original": "智商测验所时",
+    "suggestion": "智商测验时",
+    "type": "typo",
+    "reason": "“所”字为赘字或舛误，此句表达“准备接受智商测验时”，而非“测验所”。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 145,
+    "original": "( 这样的伤害和感受就是",
+    "suggestion": "(这样的伤害和感受就是",
+    "type": "format",
+    "reason": "中文左括号后不应留空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 145,
+    "original": "“ 父母化”",
+    "suggestion": "“父母化”",
+    "type": "format",
+    "reason": "中文引号内两侧有多余空格，应为“父母化”。该问题在全文中反复出现（如第147页“ 父母化”、第155页“ 父母联盟”等），此处以首次出现为例。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 146,
+    "original": "约翰· 贝希摩斯男子学校( John Behemoth Boys' School)",
+    "suggestion": "约翰·贝希摩斯男子学校(John Behemoth Boys' School)",
+    "type": "format",
+    "reason": "中文隔点“·”后有多余空格；英文括号内左右侧均有多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 147,
+    "original": "去接她的母亲",
+    "suggestion": "去接他的母亲",
+    "type": "typo",
+    "reason": "此处描述古斯塔夫照顾自己的母亲，“她的母亲”字面指“母亲的母亲”（外婆），不合上下文。且“他”指古斯塔夫，“接他的母亲”方符合本段所述父母化现象。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 147,
+    "original": "( Gustav Hofstadter)",
+    "suggestion": "(Gustav Hofstadter)",
+    "type": "format",
+    "reason": "英文括号内左右侧均有多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 151,
+    "original": "Mumberry",
+    "suggestion": "Bumberry",
+    "type": "citation",
+    "reason": "作者姓氏拼写错误：\"Mumberry\" 应为 \"Bumberry\"。William M. Bumberry 是 Carl Whitaker 在该书中的合著者。",
+    "status": "applied",
+    "source": "WorldCat 书目记录、Carl Whitaker 著作目录"
+  },
+  {
+    "page": 159,
+    "original": "家庭的“ 父母联盟” ( parental",
+    "suggestion": "家庭的“父母联盟」(parental",
+    "type": "format",
+    "reason": "“父母联盟”引号内有多余空格；括号内有多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 160,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "citation",
+    "reason": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。与第126页相同的重复性错误。",
+    "status": "applied",
+    "source": "Ivan Boszormenyi-Nagy 学术著作署名"
+  },
+  {
+    "page": 161,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "citation",
+    "reason": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。同一错误在第126、160、161、164页反复出现。",
+    "status": "applied",
+    "source": "Ivan Boszormenyi-Nagy 学术著作署名"
+  },
+  {
+    "page": 164,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "citation",
+    "reason": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。第4次出现同一错误。",
+    "status": "applied",
+    "source": "Ivan Boszormenyi-Nagy 学术著作署名"
+  },
+  {
+    "page": 172,
+    "original": "霍尔顿· 考尔菲德( Holden Caulfield)",
+    "suggestion": "霍尔顿·考尔菲德(Holden Caulfield)",
+    "type": "format",
+    "reason": "中文隔点“·”后多余空格；英文括号内多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 174,
+    "original": "( Robert McNamara)",
+    "suggestion": "(Robert McNamara)",
+    "type": "format",
+    "reason": "左括号后有多余空格。",
+    "status": "applied",
+    "source": ""
+  },
+  {
+    "page": 178,
+    "original": "Matt.",
+    "suggestion": "Mass.",
+    "type": "citation",
+    "reason": "\"Matt.\" is not a valid U.S. state abbreviation. Should be \"Mass.\" (Massachusetts). Harvard Universit",
+    "status": "applied",
+    "source": "Harvard University Press official location is Cambridge, Mas"
+  },
+  {
+    "page": 186,
+    "original": "1976",
+    "suggestion": "1973",
+    "type": "citation",
+    "reason": "Publication year is incorrect. All library catalogs (WorldCat, HathiTrust, etc.) consistently record",
+    "status": "applied",
+    "source": "Library catalog records (HathiTrust, WorldCat, Penn Librarie"
+  },
+  {
+    "page": 193,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "citation",
+    "reason": "Author surname \"Boszormenyi-Nagi\" is misspelled. The correct spelling is \"Boszormenyi-Nagy\" with a '",
+    "status": "applied",
+    "source": "Library catalogs (University of Wisconsin, Routledge/Taylor "
+  },
+  {
+    "page": 208,
+    "original": "Individuel",
+    "suggestion": "Individual",
+    "type": "citation",
+    "reason": "Journal name \"Individuel Psychology\" is misspelled. \"Individuel\" is French; the English journal name",
+    "status": "applied",
+    "source": "Web search confirms the article appears in Individual Psycho"
+  },
+  {
+    "page": 222,
+    "original": "Hedgepath",
+    "suggestion": "Hedgepeth",
+    "type": "citation",
+    "reason": "Author surname misspelled: \"Hedgepath\" should be \"Hedgepeth\"",
+    "status": "applied",
+    "source": "Library catalogs (Ohio State University, Denison University,"
+  },
+  {
+    "page": 225,
+    "original": "Boszormenyi-Nagi",
+    "suggestion": "Boszormenyi-Nagy",
+    "type": "citation",
+    "reason": "作者姓氏拼写错误。著名家庭治疗师 Ivan Boszormenyi-Nagy 的姓氏末尾应为 'y' 而非 'i'（Nagy 而非 Nagi）。该学者为匈牙利裔美国精神科医生，家庭治疗领域奠基人之一。",
+    "status": "applied",
+    "source": "Wikipedia: Ivan Boszormenyi-Nagy; New York Times obituary (2"
+  }
+]

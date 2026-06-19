@@ -1,0 +1,107 @@
+[
+  {
+    "chunk_id": 1,
+    "pages": "1-14",
+    "char_count": 12509
+  },
+  {
+    "chunk_id": 2,
+    "pages": "15-28",
+    "char_count": 16452
+  },
+  {
+    "chunk_id": 3,
+    "pages": "29-42",
+    "char_count": 17562
+  },
+  {
+    "chunk_id": 4,
+    "pages": "43-56",
+    "char_count": 13486
+  },
+  {
+    "chunk_id": 5,
+    "pages": "57-70",
+    "char_count": 16504
+  },
+  {
+    "chunk_id": 6,
+    "pages": "71-84",
+    "char_count": 14818
+  },
+  {
+    "chunk_id": 7,
+    "pages": "85-98",
+    "char_count": 13250
+  },
+  {
+    "chunk_id": 8,
+    "pages": "99-112",
+    "char_count": 15235
+  },
+  {
+    "chunk_id": 9,
+    "pages": "113-126",
+    "char_count": 14813
+  },
+  {
+    "chunk_id": 10,
+    "pages": "127-140",
+    "char_count": 13373
+  },
+  {
+    "chunk_id": 11,
+    "pages": "141-154",
+    "char_count": 14493
+  },
+  {
+    "chunk_id": 12,
+    "pages": "155-168",
+    "char_count": 13251
+  },
+  {
+    "chunk_id": 13,
+    "pages": "169-182",
+    "char_count": 13517
+  },
+  {
+    "chunk_id": 14,
+    "pages": "183-196",
+    "char_count": 14112
+  },
+  {
+    "chunk_id": 15,
+    "pages": "197-210",
+    "char_count": 14180
+  },
+  {
+    "chunk_id": 16,
+    "pages": "211-224",
+    "char_count": 15814
+  },
+  {
+    "chunk_id": 17,
+    "pages": "225-238",
+    "char_count": 14133
+  },
+  {
+    "chunk_id": 18,
+    "pages": "239-252",
+    "char_count": 15344
+  },
+  {
+    "chunk_id": 19,
+    "pages": "253-266",
+    "char_count": 15629
+  },
+  {
+    "chunk_id": 20,
+    "pages": "267-280",
+    "char_count": 14758
+  },
+  {
+    "chunk_id": 21,
+    "pages": "281-282",
+    "char_count": 1055
+  }
+]

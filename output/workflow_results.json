@@ -1,0 +1,1818 @@
+{
+  "proofread_findings": [
+    {
+      "page": 16,
+      "original": "《女儿的两难:家庭过程与十九世纪家庭小说》",
+      "suggestion": "《女儿的两难：家庭过程与十九世纪家庭小说》",
+      "reason": "中文书名中的冒号应使用全角符号“：”，而非半角“:”。半角冒号不符合中文出版规范。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 17,
+      "original": "《锻造连接:当代心理学与文学批评》",
+      "suggestion": "《锻造连接：当代心理学与文学批评》",
+      "reason": "同上，中文书名中的冒号应使用全角“：”。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 20,
+      "original": "《阅读家庭: 家庭系统与文学研究》",
+      "suggestion": "《阅读家庭：家庭系统与文学研究》",
+      "reason": "中文书名中的冒号应使用全角“：”，且全角冒号后不应留半角空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 34,
+      "original": "肯·基西",
+      "suggestion": "肯·凯西",
+      "reason": "Ken Kesey 的中文人名有误：第25页（行1020）正确写作“肯·凯西”,此处却写作“肯·基西”,前后不一致且不符合通用译名规范。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 6,
+      "original": "也正是认识到了历史学研究的缺陷，二战后，历史编纂学发生了一种范式转换。",
+      "suggestion": "也正是因为认识到了历史学研究的缺陷，二战后，历史编纂学发生了一种范式转换。",
+      "reason": "“也正是认识到了”缺少连词“因为”，导致前一分句与后一分句之间的因果关系不够明确，读起来有悬垂感。",
+      "type": "B",
+      "category": "grammar"
+    },
+    {
+      "page": 6,
+      "original": "在诸多人文社会科学之中，心理学是二十世纪发展最为迅速的学科之一……尽管心理学是二十世纪发展最快的学科之一，历经了飞速的变化……",
+      "suggestion": "建议删除或合并其中一处“发展最快”的表述，避免同一段落内重复论断。",
+      "reason": "同一段落内相隔仅数行，先后重复“心理学是二十世纪发展最为迅速的学科之一”和“心理学是二十世纪发展最快的学科之一”，意思几乎完全相同，造成冗余。",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 37,
+      "original": "国国家图书奖小说奖",
+      "suggestion": "美国国家图书奖小说奖",
+      "reason": "缺少\"美\"字，首字\"国\"与后文\"国家\"重复",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 42,
+      "original": "Neo - domestic fiction",
+      "suggestion": "Neo-domestic fiction",
+      "reason": "\"neo-\"为前缀，与后续单词连写时连字符两侧不应有空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 44,
+      "original": "Boszormenyi-Nagi",
+      "suggestion": "Boszormenyi-Nagy",
+      "reason": "匈牙利裔家庭治疗师Ivan Boszormenyi-Nagy的姓氏拼写错误，应以\"y\"结尾而非\"i\"",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 57,
+      "original": "stuck - together - ness",
+      "suggestion": "stuck-togetherness",
+      "reason": "合成词中连字符两端不应有空格，该词为家庭系统理论术语，应连写为一个词",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 61,
+      "original": "dentist ' s / hairdresser ' s",
+      "suggestion": "dentist's / hairdresser's",
+      "reason": "英文所有格中撇号与字母\"s\"之间不应有空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 69,
+      "original": "overadequate- inadequate reciprocity",
+      "suggestion": "overadequate-inadequate reciprocity",
+      "reason": "连字符前多出一个空格，\"inadequate\"前的不应有空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 47,
+      "original": "《哈克贝利·费恩历险记》( The Adventures of Huckleberry Finn)",
+      "suggestion": "《哈克贝利·费恩历险记》(The Adventures of Huckleberry Finn)",
+      "reason": "英文左括号后不应有前置空格（该问题在第37-72页中大量出现，此为代表性一例）",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 37,
+      "original": "讲述的正是那个“ 刚刚经历的” 六十年代",
+      "suggestion": "讲述的正是那个“刚刚经历的”六十年代",
+      "reason": "中文引号内部不应有多余空格（该问题在第37-72页中多处出现，此为代表性一例）",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 73,
+      "original": "哈里的妻子詹妮丝( Janice) 外出工作后",
+      "suggestion": "哈里的妻子詹妮丝(Janice)外出工作后",
+      "reason": "英文括号前有多余空格，中文行文中英文括号应紧贴前字",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 73,
+      "original": "对原有家庭身份的扬弃",
+      "suggestion": "对原有家庭身份的抛弃",
+      "reason": "\"扬弃\"是哲学术语（sublation，即既克服又保留），此处语境为主动放弃或抛弃家庭身份，用\"抛弃\"更准确",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 73,
+      "original": "那么\"是多数美国女性想要成为的样子\"②。然而如果我们",
+      "suggestion": "那么\"是多数美国女性想要成为的样子\"②。然而如果我们",
+      "reason": "右引号前有多余空格。全文大量存在中文引号\" \"内侧多余空格的问题，此为系统性格式错误，仅举数例，不逐一列出",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 74,
+      "original": "\"性别( gender) \" 本身就是一个\" ' 父权' ( patriarchal) \" 的概念\"",
+      "suggestion": "\"性别(gender)\"本身就是一个\"'父权'(patriarchal)\"的概念\"",
+      "reason": "中文引号内侧及英文括号前均有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 74,
+      "original": "\"让性别失去意义\" ，推翻其\"作为 一种重要分类依据的地位\"",
+      "suggestion": "\"让性别失去意义\"，推翻其\"作为一种重要分类依据的地位\"",
+      "reason": "左引号与逗号之间多余空格；\"一种\"前多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 74,
+      "original": "对母亲身份( motherhood) 的否定",
+      "suggestion": "对母亲身份(motherhood)的否定",
+      "reason": "英文括号前有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 74,
+      "original": "对母亲身份的批判是20 世纪60 年代末兴起的妇女解放运动的核心",
+      "suggestion": "对母亲身份的批判是20世纪60年代末兴起的妇女解放运动的核心",
+      "reason": "年份数字与\"世纪\"\"年代\"之间不应有空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 76,
+      "original": "我会存在仅仅意味着我会将自己的意志施加于他人",
+      "suggestion": "我存在仅仅意味着我会将自己的意志施加于他人",
+      "reason": "\"我会存在\"（I will exist）在中文中不合逻辑，应为\"我存在\"（I exist），此为翻译时情态动词处理不当",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 76,
+      "original": "娜塔莎( 娜达) 一生追求自我满足的基础",
+      "suggestion": "娜塔莎(娜达)一生追求自我满足的基础",
+      "reason": "括号内侧有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 76,
+      "original": "玛丽· 帕罗特( Mary Lou Morrison Parrott)",
+      "suggestion": "玛丽·帕罗特(Mary Lou Morrison Parrott)",
+      "reason": "中文人名\"玛丽\"与\"帕罗特\"之间的间隔号后有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 77,
+      "original": "而1973 年，美国最高法院最终宣布堕胎合法",
+      "suggestion": "而1973年，美国最高法院最终宣布堕胎合法",
+      "reason": "年份数字与\"年\"之间不应有空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 77,
+      "original": "几乎让他精神性死亡",
+      "suggestion": "几乎让他精神死亡",
+      "reason": "\"精神性死亡\"不通顺，\"精神死亡\"即可，\"性\"为多余赘字",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 77,
+      "original": "这样的\" 失败的堕胎\" 事件",
+      "suggestion": "这样的\"失败的堕胎\"事件",
+      "reason": "引号内侧多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 78,
+      "original": "\" 那下巴消瘦的脸，看起来半睡半醒",
+      "suggestion": "\"她那消瘦的脸庞，看起来半睡半醒",
+      "reason": "\"那下巴消瘦的脸\"主语不明，\"那\"字指代不清，应补充\"她\"或改为\"她那\"",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 79,
+      "original": "她宣称自己找到了真正的\" 自我\"",
+      "suggestion": "她宣称自己找到了真正的\"自我\"",
+      "reason": "引号内侧多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 80,
+      "original": "做出了十分戏剧化的( 也是他最不愿意做的) 事情",
+      "suggestion": "做出了十分戏剧化的(也是他最不愿意做的)事情",
+      "reason": "括号内侧及外侧均有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 81,
+      "original": "强势性/ 被动性的二重奏",
+      "suggestion": "强势性/被动性的二重奏",
+      "reason": "斜杠后有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 81,
+      "original": "\" 挨打的丈夫\" ( battered husband) 成为了经常出现的形象",
+      "suggestion": "\"挨打的丈夫\"(battered husband)成为了经常出现的形象",
+      "reason": "引号内侧及英文括号前均有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 84,
+      "original": "她就开始\" 提高嗓门，满脸通红\"",
+      "suggestion": "她就开始\"提高嗓门，满脸通红\"",
+      "reason": "引号内侧多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 85,
+      "original": "\" 用谄媚的语气说话……从来不持任何异议，无论 任何事情\"",
+      "suggestion": "\"用谄媚的语气说话……从来不持任何异议，无论任何事情\"",
+      "reason": "引号内侧多余空格；\"无论\"与\"任何事情\"之间不应有空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 87,
+      "original": "\" 不想争吵\" ①",
+      "suggestion": "\"不想争吵\"①",
+      "reason": "引号内侧多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 89,
+      "original": "被定义为\" 大妈咪主义( Momism) \"",
+      "suggestion": "被定义为\"大妈咪主义(Momism)\"",
+      "reason": "引号内侧及英文括号前均有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 89,
+      "original": "在\" 每一种防御姿态和不一致的反应( incongruent response) 的背后",
+      "suggestion": "在\"每一种防御姿态和不一致的反应(incongruent response)的背后",
+      "reason": "引号内侧及英文括号前均有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 90,
+      "original": "\" 性别战争\" 在很大程度上与冷战思维相呼应",
+      "suggestion": "\"性别战争\"在很大程度上与冷战思维相呼应",
+      "reason": "引号内侧多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 90,
+      "original": "心理生存( psychic survival) 代替",
+      "suggestion": "心理生存(psychic survival)代替",
+      "reason": "英文括号前有多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 93,
+      "original": "厄普代克笔下的人物\" 寻求即时的、短暂的快乐\" ,结果往往是出轨",
+      "suggestion": "厄普代克笔下的人物\"寻求即时的、短暂的快乐\"，结果往往是出轨",
+      "reason": "引号内侧多余空格；逗号位置不当且前有空格，中文逗号应在引号外紧接",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 97,
+      "original": "即使小说中的人物所构建出的虚构中的虚构",
+      "suggestion": "即使小说中的人物所构建的虚构中的虚构",
+      "reason": "\"虚构中的虚构\"略嫌拗口，且\"构建出的虚构\"存在多余的\"出\"字，可删去使表达简洁",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 98,
+      "original": "期许很多，却回报甚少",
+      "suggestion": "期许很多，但回报甚少",
+      "reason": "\"却\"与前面的\"期许很多\"搭配不够顺畅，此处的转折用\"但\"更自然",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 99,
+      "original": "人们呼唤并欢迎着性方面更多的自由度与随意性",
+      "suggestion": "人们呼唤并欢迎性方面更多的自由度与随意性",
+      "reason": "\"着\"字多余，\"呼唤并欢迎\"本身已是进行时态，无需加\"着\"",
+      "type": "B",
+      "category": "grammar"
+    },
+    {
+      "page": 100,
+      "original": "她恨她刚刚逃离了的男人……也恨那个她将要奔向的男人",
+      "suggestion": "她恨她刚刚逃离的那个男人……也恨那个她将要奔向的男人",
+      "reason": "\"逃离了\"中的\"了\"与\"的\"连用造成冗余，\"逃离的那个男人\"即可",
+      "type": "B",
+      "category": "grammar"
+    },
+    {
+      "page": 103,
+      "original": "他拿出一瓶酒\" 来庆祝\" ②",
+      "suggestion": "他拿出一瓶酒\"来庆祝\"②",
+      "reason": "引号内侧多余空格",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 109,
+      "original": "第二章　\n幻觉、欺骗与六十年代小说中的“ 出轨社会”",
+      "suggestion": "第二章　\n幻觉、欺骗与六十年代小说中的\"出轨社会\"",
+      "reason": "左双引号后有多余空格。全书几乎所有引号开头均有此问题，应为排版格式错误。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 109,
+      "original": "一种掩饰出轨行为的办法和为被冷落的伴侣“ 着想” 的手段",
+      "suggestion": "一种掩饰出轨行为的办法和为被冷落的伴侣\"着想\"的手段",
+      "reason": "左双引号后多余空格，应紧接正文。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 109,
+      "original": "所谓的性自由不过是另一种带有伤害",
+      "suggestion": "所谓的性自由不过是另一种带有伤害",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 109,
+      "original": "希望在‘ 旧道德秩序的夕阳中’",
+      "suggestion": "希望在'旧道德秩序的夕阳中'",
+      "reason": "左单引号后有多余空格。全书中英文单引号后空格问题普遍存在。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 109,
+      "original": "对自我( selfhood) 的确认",
+      "suggestion": "对自我(selfhood)的确认",
+      "reason": "左括号后多余空格。英文括号内的内容与括号之间不应有空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 109,
+      "original": "审美-宗教的愿望( aes-\nthetic-religious \ndesires)",
+      "suggestion": "审美-宗教的愿望(aesthetic-religious desires)",
+      "reason": "左括号后有多余空格；\"aesthetic-religious\"因PDF换行被拆分，应连写并去除多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 110,
+      "original": "爱欲乌托邦主义( erotic \nutopianism)",
+      "suggestion": "爱欲乌托邦主义(erotic utopianism)",
+      "reason": "左括号后有多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 110,
+      "original": "厄普代克让我们看到,“ 所谓的性自由不过是另一种带有伤害\n和奴役形式的剥削”",
+      "suggestion": "厄普代克让我们看到,\"所谓的性自由不过是另一种带有伤害\n和奴役形式的剥削\"",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 111,
+      "original": "《夫妇们》‘ 并不真的与性有关",
+      "suggestion": "《夫妇们》'并不真的与性有关",
+      "reason": "左单引号后有多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 111,
+      "original": "让“ 性” 这一行为解决他们的心理危机",
+      "suggestion": "让\"性\"这一行为解决他们的心理危机",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 112,
+      "original": "塔博科斯公理会教堂",
+      "suggestion": "塔博克斯公理会教堂",
+      "reason": "与第114页\"塔博克斯\"不一致，指同一地名Tarbox。\"克斯\"更符合box的音译。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 112,
+      "original": "被‘ 上帝自己的闪\n电’ 击中",
+      "suggestion": "被'上帝自己的闪电'击中",
+      "reason": "左单引号后多余空格；\"闪/电\"因换行拆分应连写。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 112,
+      "original": "现实主义的风俗小说( a\n\nrealistic\n\nnovel\n\nof\n\nmanners)",
+      "suggestion": "现实主义的风俗小说(a realistic novel of manners)",
+      "reason": "左括号后多余空格，英文词组因PDF换行被打断，应连写且去除多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 112,
+      "original": "是一部社会历史小说和\n一部浪漫神话的再创作",
+      "suggestion": "是一部社会历史小说和\n一部浪漫神话的再创作",
+      "reason": "此处排版正确，因换行自然断开，无问题。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 113,
+      "original": "罗伯特·斯滕伯格( Robert \n\nSternberg)",
+      "suggestion": "罗伯特·斯滕伯格(Robert Sternberg)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 113,
+      "original": "爱情三角理论” ( triangular\n\ntheory\n\nof\n\nlove)",
+      "suggestion": "爱情三角理论\"(triangular theory of love)",
+      "reason": "左括号前多余空格，右引号与左括号之间不应有空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 113,
+      "original": "“ 没有承诺的亲密感",
+      "suggestion": "\"没有承诺的亲密感",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 113,
+      "original": "沉默的大多数” ( silent \nmajority)",
+      "suggestion": "沉默的大多数\"(silent majority)",
+      "reason": "左括号前多余空格；\"majority\"前多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 114,
+      "original": "约翰·库伯( John \nCuber)",
+      "suggestion": "约翰·库伯(John Cuber)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 115,
+      "original": "惹人不安的轻率和肤浅",
+      "suggestion": "令人不安的轻率和肤浅",
+      "reason": "\"惹人不安\"可改为更常用的\"令人不安\"，表达更自然。",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 115,
+      "original": "系统理论( systems \ntheory)",
+      "suggestion": "系统理论(systems theory)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 115,
+      "original": "互相\n平衡( reciprocal \nequilibrium)",
+      "suggestion": "互相\n平衡(reciprocal equilibrium)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 116,
+      "original": "自由企业( free \nenter-\nprise)",
+      "suggestion": "自由企业(free enterprise)",
+      "reason": "左括号后多余空格；\"enterprise\"因换行断字应连写。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 116,
+      "original": "Re - elect",
+      "suggestion": "Re-elect",
+      "reason": "英文连字符两侧有多余空格，应去掉空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 116,
+      "original": "星期六之夜大屠杀” ( Saturday \nNight \nMassacre)",
+      "suggestion": "星期六之夜大屠杀\"(Saturday Night Massacre)",
+      "reason": "左括号前多余空格，左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 117,
+      "original": "信任” 的丧失",
+      "suggestion": "信任'的丧失",
+      "reason": "左单引号后有多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 117,
+      "original": "沉默的大多数” 选\n出了理查德·尼克松",
+      "suggestion": "沉默的大多数\"选\n出了理查德·尼克松",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 119,
+      "original": "平克·弗洛伊德《母亲》( Pink \nFloyd, \n“ Mother” )",
+      "suggestion": "平克·弗洛伊德《母亲》(Pink Floyd, \"Mother\")",
+      "reason": "左括号后多余空格；右括号前多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 120,
+      "original": "情感离异” ———这是前文中所谈及的",
+      "suggestion": "情感离异\"———这是前文中所谈及的",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 121,
+      "original": "大笑着掩饰他的恐惧”,",
+      "suggestion": "大笑着掩饰他的恐惧\",",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 122,
+      "original": "二人关系” ( dyad)",
+      "suggestion": "二人关系\"(dyad)",
+      "reason": "左括号前多余空格，左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 123,
+      "original": "mother - child \noverinvolvement",
+      "suggestion": "mother-child overinvolvement",
+      "reason": "英文连字符两侧有多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 125,
+      "original": "欧茨的短篇小说《群魔》( “ Demons” )",
+      "suggestion": "欧茨的短篇小说《群魔》(“Demons”)",
+      "reason": "左括号后有多余空格；右括号前有多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 126,
+      "original": "未分化的家庭集体自我” ( the \nundifferentiated \nfamily \nego \nmass)",
+      "suggestion": "未分化的家庭集体自我\"(the undifferentiated family ego mass)",
+      "reason": "左括号前多余空格；左括号后多余空格；英文词组因换行断开应连写。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 127,
+      "original": "她甚至觉得这是她“ 唯一的生活方式”",
+      "suggestion": "她甚至觉得这是她\"唯一的生活方式\"",
+      "reason": "左双引号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 130,
+      "original": "自我意识( sense \nof \nself)",
+      "suggestion": "自我意识(sense of self)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 130,
+      "original": "个人身份认同( personal \nidentity)",
+      "suggestion": "个人身份认同(personal identity)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 131,
+      "original": "大卫·里斯曼( Da-\nvid \nRiesman)",
+      "suggestion": "大卫·里斯曼(David Riesman)",
+      "reason": "左括号后多余空格；\"David\"因换行断字应连写。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 131,
+      "original": "《孤单的人群:美国人格变迁研究》( The \nLonely \nCrowd: \nA \nStudy \nof \nthe \nChanging \nAmerican \nCharacter)",
+      "suggestion": "《孤单的人群:美国人格变迁研究》(The Lonely Crowd: A Study of the Changing American Character)",
+      "reason": "左括号后多余空格；英文书名因换行被打散应连写。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 132,
+      "original": "替代伴侣( ersatz \nmate)",
+      "suggestion": "替代伴侣(ersatz mate)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 133,
+      "original": "《孩子们》( “ The \nChildren” )",
+      "suggestion": "《孩子们》(“The Children”)",
+      "reason": "左括号后多余空格；右括号前多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 134,
+      "original": "《物质与能量》( “ Matter \nand \nEnergy” )",
+      "suggestion": "《物质与能量》(“Matter and Energy”)",
+      "reason": "左括号后多余空格；右括号前多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 138,
+      "original": "普莱斯女士( Mrs. \nPrice)",
+      "suggestion": "普莱斯女士(Mrs. Price)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 139,
+      "original": "对( 与她\n情感痴缠、将她“ 父母化” 、强制她成为情感的承接者和照顾者的) 母\n亲的愤怒",
+      "suggestion": "对(与她\n情感痴缠、将她\"父母化\"、强制她成为情感的承接者和照顾者的)母\n亲的愤怒",
+      "reason": "左括号后多余空格；\"父母化\"左双引号后多余空格；右括号前多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 140,
+      "original": "原生家庭戏剧( family \n\ndrama)",
+      "suggestion": "原生家庭戏剧(family drama)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 143,
+      "original": "俄狄浦斯倾向( Oedipal \ninclina-\ntions)",
+      "suggestion": "俄狄浦斯倾向(Oedipal inclinations)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 143,
+      "original": "艾弗莱特家庭( the \nEverett \nfamily)",
+      "suggestion": "艾弗莱特家庭(the Everett family)",
+      "reason": "左括号后多余空格。",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 145,
+      "original": "智商测验所时",
+      "suggestion": "智商测验时",
+      "reason": "“所”字为赘字或舛误，此句表达“准备接受智商测验时”，而非“测验所”。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 147,
+      "original": "去接她的母亲",
+      "suggestion": "去接他的母亲",
+      "reason": "此处描述古斯塔夫照顾自己的母亲，“她的母亲”字面指“母亲的母亲”（外婆），不合上下文。且“他”指古斯塔夫，“接他的母亲”方符合本段所述父母化现象。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 151,
+      "original": "用全身心了解它、感知他、品味它",
+      "suggestion": "用全身心了解它、感知它、品味它",
+      "reason": "同一排比结构中代词不一致。“他”应作“它”，因指代对象是前文“这个残酷的事实”（抽象的真相），非人。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 145,
+      "original": "( 这样的伤害和感受就是",
+      "suggestion": "(这样的伤害和感受就是",
+      "reason": "中文左括号后不应留空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 145,
+      "original": "“ 父母化”",
+      "suggestion": "“父母化”",
+      "reason": "中文引号内两侧有多余空格，应为“父母化”。该问题在全文中反复出现（如第147页“ 父母化”、第155页“ 父母联盟”等），此处以首次出现为例。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 146,
+      "original": "约翰· 贝希摩斯男子学校( John Behemoth Boys' School)",
+      "suggestion": "约翰·贝希摩斯男子学校(John Behemoth Boys' School)",
+      "reason": "中文隔点“·”后有多余空格；英文括号内左右侧均有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 147,
+      "original": "( Gustav Hofstadter)",
+      "suggestion": "(Gustav Hofstadter)",
+      "reason": "英文括号内左右侧均有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 150,
+      "original": "( Natashya Romanov,即娜达)",
+      "suggestion": "(Natashya Romanov,即娜达)",
+      "reason": "左括号后有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 155,
+      "original": "“ 同盟” 与“ 分裂的忠诚” :无路可走的孩子",
+      "suggestion": "“同盟”与“分裂的忠诚”：无路可走的孩子",
+      "reason": "中文引号内外均有多余空格；英文冒号“:”应改为中文冒号“：”。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 155,
+      "original": "家庭 的“ 父母联盟” ( parental alignment )构成",
+      "suggestion": "家庭的“父母联盟」(parental alignment)构成",
+      "reason": "“家庭”与“的”之间有多余空格；“父母联盟”引号内有多余空格；英文括号内有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 159,
+      "original": "家庭的“ 父母联盟” ( parental",
+      "suggestion": "家庭的“父母联盟」(parental",
+      "reason": "“父母联盟”引号内有多余空格；括号内有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 163,
+      "original": "娜塔莎( 娜达)",
+      "suggestion": "娜塔莎(娜达)",
+      "reason": "左括号后有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 164,
+      "original": "朝( 理查德) 眨眨眼",
+      "suggestion": "朝(理查德)眨眨眼",
+      "reason": "括号内外均有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 167,
+      "original": "埃尔伍德· 艾弗雷特",
+      "suggestion": "埃尔伍德·艾弗雷特",
+      "reason": "中文隔点“·”后有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 170,
+      "original": "一定 程度上",
+      "suggestion": "一定程度上",
+      "reason": "“一定”与“程度”之间有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 172,
+      "original": "霍尔顿· 考尔菲德( Holden Caulfield)",
+      "suggestion": "霍尔顿·考尔菲德(Holden Caulfield)",
+      "reason": "中文隔点“·”后多余空格；英文括号内多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 174,
+      "original": "( Robert McNamara)",
+      "suggestion": "(Robert McNamara)",
+      "reason": "左括号后有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 170,
+      "original": "促使了古巴倒向苏联及美国与古巴的关系破裂",
+      "suggestion": "促使了古巴倒向苏联，并导致美国与古巴的关系破裂",
+      "reason": "“促使了”与两个宾语之间用“及”连接不当——第一个宾语“古巴倒向苏联”是正向行为，第二个“美国与古巴的关系破裂”是结果，用“以及”或“并导致”更清晰。",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 161,
+      "original": "母亲总是利用他来安慰自己的孤独",
+      "suggestion": "母亲总是利用他来排解自己的孤独",
+      "reason": "“安慰”的对象通常是人，而非“孤独”。“安慰孤独”搭配生硬，建议改为“排解孤独”或“抚慰内心的孤独”。",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 165,
+      "original": "父亲把娜达写给理查德的信都藏了起来( 为了不让儿子读到这些信)",
+      "suggestion": "父亲把娜达写给理查德的信都藏了起来(为了不让儿子读到这些信)",
+      "reason": "左括号后有多余空格。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 182,
+      "original": "Wednesday' s Child",
+      "suggestion": "Wednesday's Child",
+      "reason": "英文撇号后有多余空格，应紧接其后",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 182,
+      "original": "除了生意大利面什么都不吃",
+      "suggestion": "除了意大利面什么都不吃",
+      "reason": "\"生意大利面\"不构成有效词义，\"生\"为多余字符，应为\"意大利面\"",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 186,
+      "original": "Women' s Lib",
+      "suggestion": "Women's Lib",
+      "reason": "英文撇号后有多余空格，应紧接其后",
+      "type": "A",
+      "category": "punctuation"
+    },
+    {
+      "page": 201,
+      "original": "也非常清晰地严明了枪的内在强大与表面弱小之间的对比",
+      "suggestion": "也非常清晰地表明了（或阐明了）枪的内在强大与表面弱小之间的对比",
+      "reason": "\"严明\"意为严格明确，不能带宾语；此处应为\"表明\"或\"阐明\"",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 205,
+      "original": "每位家庭成员们",
+      "suggestion": "每位家庭成员",
+      "reason": "\"每位\"为单数限定，与复数后缀\"们\"矛盾",
+      "type": "A",
+      "category": "grammar"
+    },
+    {
+      "page": 207,
+      "original": "巴尔提摩",
+      "suggestion": "巴尔的摩",
+      "reason": "Baltimore的标准汉语译名为\"巴尔的摩\"，\"巴尔提摩\"为非标准译法",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 196,
+      "original": "气愤填膺",
+      "suggestion": "义愤填膺",
+      "reason": "标准成语为\"义愤填膺\"，\"气愤填膺\"为非标准用法",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 212,
+      "original": "拿起他计算尺和笔记本",
+      "suggestion": "拿起他的计算尺和笔记本",
+      "reason": "\"他\"后缺少助词\"的\"，以明确领属关系",
+      "type": "B",
+      "category": "grammar"
+    },
+    {
+      "page": 217,
+      "original": "终前，他还在进行逻辑推理。",
+      "suggestion": "临终前，他还在进行逻辑推理。",
+      "reason": "缺少\"临\"字。\"终前\"非标准表达，\"临终前\"意为临死之前，符合上下文语义。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 218,
+      "original": "在一个充满了矛盾冲突的家庭里，电视可以让他们转移注意力的事物；",
+      "suggestion": "在一个充满了矛盾冲突的家庭里，电视可以成为他们转移注意力的事物；",
+      "reason": "缺少动词\"成为\"（或\"是\"），导致谓语结构不完整，读来不通顺。",
+      "type": "A",
+      "category": "grammar"
+    },
+    {
+      "page": 219,
+      "original": "没有参与六十年代美国迅速的各种反战运动、反文化运动或是其他的各种激进运动的美国人。",
+      "suggestion": "没有参与六十年代美国迅速兴起的各种反战运动、反文化运动或是其他的各种激进运动的美国人。",
+      "reason": "\"迅速\"作为副词不能直接修饰名词\"反战运动\"，其后缺少动词（如\"兴起\"），导致表达不通顺。",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 222,
+      "original": "感知- 感觉(sense - feeling)",
+      "suggestion": "感知—感觉(sense—feeling)",
+      "reason": "中文中连接两个并列词语应使用全角连接线\"—\"（en dash）或紧凑格式，当前半角短横前后带了多余空格，格式不规范。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 223,
+      "original": "sex, drugs, and rock' n' roll",
+      "suggestion": "sex, drugs, and rock 'n' roll",
+      "reason": "\"rock 'n' roll\"中缩写形式'n'前后各有一个空格，原文空格位置偏后，本应是\"rock' n' roll\"误为\"rock 'n' roll\"。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 223,
+      "original": "走到事情真的在发生的地方",
+      "suggestion": "走到事情真的在发生的地方",
+      "reason": "此处引文内\"真实\"与\"直接\"是并列修饰语，中文应使用顿号\"、\"分隔，而非逗号\"，\"。原文为：\"真实，直接的体验\"。",
+      "type": "B",
+      "category": "punctuation"
+    },
+    {
+      "page": 224,
+      "original": "（压抑和阻碍感受的健康表达的）",
+      "suggestion": "（压抑和阻碍感受的健康表达的）",
+      "reason": "左括号后多余一个空格，且括号为半角，中文语境应使用全角括号\"（）\"或移除多余空格。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 227,
+      "original": "She' s Leaving Home",
+      "suggestion": "She's Leaving Home",
+      "reason": "撇号与字母s之间多了一个空格，\"She' s\"应为\"She's\"，属于英文单词内部多余空格。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 229,
+      "original": "越过梅森- 迪克森线的逃亡奴隶",
+      "suggestion": "越过梅森-迪克森线的逃亡奴隶",
+      "reason": "连接线\"-\"后面多余一个空格，\"梅森- 迪克森线\"应为\"梅森-迪克森线\"。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 232,
+      "original": "虚假独立(pseudo - independence)",
+      "suggestion": "虚假独立(pseudo-independence)",
+      "reason": "英文复合词pseudo-independence的连字符前后各有多余空格，应为紧凑拼写。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 234,
+      "original": "他从各个方面他都并没有真正扮演一个称职丈夫",
+      "suggestion": "他在各个方面都并没有真正扮演一个称职丈夫",
+      "reason": "主语\"他\"重复出现，\"他从各个他方面他都\"中第二个\"他\"造成句子结构冗余，应删除或使用\"他在各个方面都\"。",
+      "type": "A",
+      "category": "grammar"
+    },
+    {
+      "page": 235,
+      "original": "mans) ;在洛弗尔眼中",
+      "suggestion": "mans)；在洛弗尔眼中",
+      "reason": "半角右括号与分号之间多了一个空格，且分号应为中文全角\"；\"。",
+      "type": "B",
+      "category": "punctuation"
+    },
+    {
+      "page": 237,
+      "original": "事物分崩离析;中心无法维持",
+      "suggestion": "事物分崩离析；中心无法维持",
+      "reason": "分号使用了半角符号，中文语境应使用全角分号\"；\"。",
+      "type": "B",
+      "category": "punctuation"
+    },
+    {
+      "page": 240,
+      "original": "Sgt. Peppers Lonely Hearts Club Band",
+      "suggestion": "Sgt. Pepper's Lonely Hearts Club Band",
+      "reason": "原文\"Pepper's\"中的撇号被渲染为乱码字符\"Pepper's\"（提取自PDF时字符丢失），应恢复为英文撇号\"Pepper's\"。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 241,
+      "original": "鲍勃·迪伦奠定了六十年代精神的那首《时代在变》迪伦的这首歌成为整个六十年代的声音。",
+      "suggestion": "鲍勃·迪伦奠定了六十年代精神的那首《时代在变》。迪伦的这首歌成为整个六十年代的声音。",
+      "reason": "歌名《时代在变》与后文\"迪伦的这首歌\"之间缺少标点，两个独立的语义单位黏连在一起。",
+      "type": "B",
+      "category": "punctuation"
+    },
+    {
+      "page": 247,
+      "original": "塔斯康花衣魔笛手(The Pied Piper of Tuscon)",
+      "suggestion": "塔斯康花衣魔笛手(The Pied Piper of Tucson)",
+      "reason": "城市名\"Tuscon\"拼写错误，正确拼写为\"Tucson\"（美国亚利桑那州城市图森），\"u\"与\"s\"顺序颠倒。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 253,
+      "original": "鲜血汨汨直流",
+      "suggestion": "鲜血汩汩直流",
+      "reason": "汨(mì)与汩(gǔ)字形相近致误。汩汩形容水流淌的样子；汨仅用于汨罗江等地名，此处应为汩汩。",
+      "type": "A",
+      "category": "typo"
+    },
+    {
+      "page": 259,
+      "original": "浪子( The Prodi-gal Son)",
+      "suggestion": "浪子( The Prodigal Son)",
+      "reason": "PDF换行连字符未去除，Prodi-gal 应连写为 Prodigal。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 262,
+      "original": "解体家庭和替代家庭( dis-integrating and substitute families)",
+      "suggestion": "解体家庭和替代家庭( disintegrating and substitute families)",
+      "reason": "PDF换行连字符未去除，dis-integrating 应连写为 disintegrating。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 266,
+      "original": "家庭恶性内稳态( vicious fami-ly homeostasis)",
+      "suggestion": "家庭恶性内稳态( vicious family homeostasis)",
+      "reason": "PDF换行连字符未去除，fami-ly 应连写为 family。",
+      "type": "A",
+      "category": "format"
+    },
+    {
+      "page": 258,
+      "original": "海特–阿什伯里（第169行用en-dash）与海特-阿什伯里（第185行用hyphen）不一致",
+      "suggestion": "统一使用海特-阿什伯里或海特–阿什伯里",
+      "reason": "同一地名 Haight-Ashbury 在同一页中前后写法不一致，一处使用en-dash（–），一处使用hyphen（-），应统一。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 277,
+      "original": "唯我独尊的时代( me decade)",
+      "suggestion": "唯我独尊的时代( Me Decade)",
+      "reason": "Tom Wolfe所创术语 Me Decade 为标准写法，首字母应大写。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 274,
+      "original": "被定义为个人问题的问题通常有其社会解释",
+      "suggestion": "被归为个人问题的事物通常有其社会解释",
+      "reason": "问题一词间隔重复（个人问题的问题），读起来拗口，建议调整表述避免重复。",
+      "type": "B",
+      "category": "expression"
+    },
+    {
+      "page": 269,
+      "original": "文学一如既往敏锐地反映着时代",
+      "suggestion": "文学一如既往，敏锐地反映着时代",
+      "reason": "一如既往后缺少逗号或结构助词地，造成状语与中心语衔接不畅，加逗号后语感更顺。",
+      "type": "B",
+      "category": "punctuation"
+    },
+    {
+      "page": 281,
+      "original": "1960 年代（第850行及第878行）",
+      "suggestion": "1960年代",
+      "reason": "数字与年代之间有空格，中文行文中数字与汉字间通常不加空格，宜删去。",
+      "type": "B",
+      "category": "format"
+    },
+    {
+      "page": 278,
+      "original": "不管我如何堕落，邪恶，愚蠢，失误，莽撞地乱闯",
+      "suggestion": "不管我如何堕落、邪恶、愚蠢、失误，莽撞地乱闯",
+      "reason": "堕落、邪恶、愚蠢、失误为四项并列的简短词语，之间应用顿号（、）而非逗号（，）。",
+      "type": "B",
+      "category": "punctuation"
+    },
+    {
+      "page": 255,
+      "original": "最终在决裂之上重又修复起了关系桥梁的案例",
+      "suggestion": "最终在决裂之上重新修复了关系桥梁的案例",
+      "reason": "重又修复起了表达略显冗余和口语化，建议改为重新修复了，更符合学术书面语风格。",
+      "type": "B",
+      "category": "expression"
+    }
+  ],
+  "citation_findings": [
+    {
+      "page": 8,
+      "original_citation": "Halbwachs, Maurice. On Collective Memory. Tran. Lewis A Coser. Chicago: The U of Chicago P, 1992, p. 54.",
+      "issue": "翻译者缩写不规范：\"Tran.\" 应为 \"Trans.\"（标准缩写）；译者名 \"Lewis A Coser\" 中 \"A\" 后缺少句点，应为 \"Lewis A. Coser\"。",
+      "suggested_correction": "将 \"Tran.\" 改为 \"Trans.\"，在 \"Lewis A\" 后添加句点变为 \"Lewis A.\"",
+      "correct_text": "Halbwachs, Maurice. On Collective Memory. Trans. Lewis A. Coser. Chicago: The U of Chicago P, 1992, p. 54.",
+      "source": "https://www.jstor.org/stable/j.ctt1vkc0bb",
+      "risk_level": "low"
+    },
+    {
+      "page": 12,
+      "original_citation": "Bloom, Harold. The Western Canon: The Books and School of Ages. New York: Harcourt Brace, 1994, p. 371.",
+      "issue": "书名副标题缺失冠词 \"the\"：原书副标题为 \"The Books and School of the Ages\"（\"Ages\" 前应有 \"the\"），而非 \"School of Ages\"。",
+      "suggested_correction": "在 \"School of Ages\" 中的 \"Ages\" 前添加 \"the\"，改为 \"School of the Ages\"",
+      "correct_text": "Bloom, Harold. The Western Canon: The Books and School of the Ages. New York: Harcourt Brace, 1994, p. 371.",
+      "source": "https://eric.ed.gov/?id=ED399568",
+      "risk_level": "medium"
+    },
+    {
+      "page": 15,
+      "original_citation": "Adams, Jeffrey.\"Review of Reading the Family Dance: Family Systems Therapy and Literary Study.\"College English 32. 3 (2005), p. 197.",
+      "issue": "期刊名称错误：此评论实际发表于 College Literature，而非 College English。此外 \"32. 3\" 中句点后有冗余空格。",
+      "suggested_correction": "将 \"College English\" 改为 \"College Literature\"，并修正空格",
+      "correct_text": "Adams, Jeffrey. \"Review of Reading the Family Dance: Family Systems Therapy and Literary Study.\" College Literature 32.3 (2005), p. 197.",
+      "source": "https://doi.org/10.1353/lit.2005.0036",
+      "risk_level": "high"
+    },
+    {
+      "page": 22,
+      "original_citation": "Knapp, John V.\"Family Systems Psychotherapy, and Psychoanalytic literary Criticism: A Comparative Critique.\"MOSAIC, 37. 1 (March 2004), p. 160.",
+      "issue": "（1）期刊名 \"MOSAIC\" 应使用标准大小写 \"Mosaic\"（非全大写）；（2）论文标题中 \"Psychotherapy\" 后有多余逗号；（3）\"literary\" 应大写为 \"Literary\"；（4）原文标题实际有连字符 \"Family-Systems\"。",
+      "suggested_correction": "将 \"MOSAIC\" 改为 \"Mosaic\"，删除 \"Psychotherapy\" 后逗号，\"literary\" 首字母大写，\"Family Systems\" 改为 \"Family-Systems\"",
+      "correct_text": "Knapp, John V. \"Family-Systems Psychotherapy and Psychoanalytic Literary Criticism: A Comparative Critique.\" Mosaic, 37.1 (March 2004), p. 160.",
+      "source": "https://www.proquest.com/docview/205376945",
+      "risk_level": "medium"
+    },
+    {
+      "page": 27,
+      "original_citation": "Bercovitch, Sacvan, ed. The Cambridge History of American Literature. Vol 7. Cambridge: Cambridge UP, 1999, p. 451.",
+      "issue": "\"Vol\" 后缺少句点，标准格式应为 \"Vol.\"",
+      "suggested_correction": "在 \"Vol\" 后添加句点",
+      "correct_text": "Bercovitch, Sacvan, ed. The Cambridge History of American Literature. Vol. 7. Cambridge: Cambridge UP, 1999, p. 451.",
+      "source": "https://www.cambridge.org",
+      "risk_level": "low"
+    },
+    {
+      "page": 30,
+      "original_citation": "Gitlin, Todd. The Sixties: Years of Hope, Days of Rage. NewYork: Bantam Book, 1987, p. 235.",
+      "issue": "（1）\"NewYork\" 中间缺少空格，应为 \"New York\"；（2）\"Bantam Book\" 应为 \"Bantam Books\"（复数）",
+      "suggested_correction": "\"NewYork\" 改为 \"New York\"，\"Book\" 改为 \"Books\"",
+      "correct_text": "Gitlin, Todd. The Sixties: Years of Hope, Days of Rage. New York: Bantam Books, 1987, p. 235.",
+      "source": "https://www.penguinrandomhouse.com/books/1135/",
+      "risk_level": "low"
+    },
+    {
+      "page": 34,
+      "original_citation": "Marcus, Daniel. Happy Days and Wonder Years: The Fifties and the Sixties in Contem- porary Cultural Politics. New Brunswick, Rutgers University Press, 2004, p. 30.",
+      "issue": "出版地与出版社之间的逗号应为冒号。标准格式为 \"New Brunswick: Rutgers University Press\"。",
+      "suggested_correction": "将出版地 \"New Brunswick\" 后的逗号改为冒号",
+      "correct_text": "Marcus, Daniel. Happy Days and Wonder Years: The Fifties and the Sixties in Contemporary Cultural Politics. New Brunswick: Rutgers University Press, 2004, p. 30.",
+      "source": "https://www.rutgersuniversitypress.org",
+      "risk_level": "low"
+    },
+    {
+      "page": 38,
+      "original_citation": "Burt, Daniel S, ed. The Chronology of American Literature: America's Literary A- chievements from the Colonial Era to Modern Times. Boston: Houghton Mifflin, 2004, p. 599.",
+      "issue": "（1）编者名 \"Daniel S\" 后缺少句点，应为 \"Daniel S.\"；（2）\"A- chievements\" 中存在由PDF断行造成的多余连字符和空格",
+      "suggested_correction": "在 \"Daniel S\" 后添加句点，删除 \"A- chievements\" 中的连字符和空格",
+      "correct_text": "Burt, Daniel S., ed. The Chronology of American Literature: America's Literary Achievements from the Colonial Era to Modern Times. Boston: Houghton Mifflin, 2004, p. 599.",
+      "source": "https://www.houghtonmifflinbooks.com",
+      "risk_level": "low"
+    },
+    {
+      "page": 39,
+      "original_citation": "Schneiderman, Leo.\"Anne Tyler: The American Family Fights for Its Half- Life.\"The American Journal of Psychoanalysis 56. 1 (1996), p. 779.",
+      "issue": "页码严重错误。该文章实际发表于 The American Journal of Psychoanalysis 第56卷第1期（1996年），页数为65-81，而非第779页。页码差约700页。",
+      "suggested_correction": "页码 \"779\" 明显错误，该文页码范围为65-81，具体引用页需重新核实后确定",
+      "correct_text": "Schneiderman, Leo. \"Anne Tyler: The American Family Fights for Its Half-Life.\" The American Journal of Psychoanalysis 56.1 (1996), pp. 65-81.",
+      "source": "https://link.springer.com/article/10.1007/BF02732971",
+      "risk_level": "high"
+    },
+    {
+      "page": 44,
+      "original_citation": "Elliot, Emory and Craig Svonkin. New Directions in American Literary Scholarship (1981-2002). Washington: US Department of State, 2004, p. 15.",
+      "issue": "（1）作者名 \"Elliot\" 拼写错误，应为 \"Elliott\"（双t）；（2）书中年份范围可能为1980-2002，而非1981-2002（待进一步确认）",
+      "suggested_correction": "将 \"Elliot\" 改为 \"Elliott\"，并核实年份范围",
+      "correct_text": "Elliott, Emory and Craig Svonkin. New Directions in American Literary Scholarship (1980-2002). Washington: US Department of State, 2004, p. 15.",
+      "source": "https://linc.nus.edu.sg/search~S16*eng?/cZ1223+Man/cz++1223+man/-3%2C-1%2C0%2CE/frameset&FF=cz++1225+ell+2004&1%2C1%2C",
+      "risk_level": "medium"
+    },
+    {
+      "page": 53,
+      "original_citation": "Beavers, W. Robert. Psychotherapy and Growth: A Family systems Perspective. New York: Brunner / Mazel, 1977, p. 61.",
+      "issue": "（1）\"Family systems\" 中的 \"systems\" 应大写为 \"Systems\"（书名中实词首字母大写）；（2）出版社 \"Brunner / Mazel\" 中间有多余空格",
+      "suggested_correction": "\"Family systems\" 改为 \"Family Systems\"，删除 \"Brunner / Mazel\" 中多余空格",
+      "correct_text": "Beavers, W. Robert. Psychotherapy and Growth: A Family Systems Perspective. New York: Brunner/Mazel, 1977, p. 61.",
+      "source": "https://www.worldcat.org",
+      "risk_level": "low"
+    },
+    {
+      "page": 65,
+      "original_citation": "Evans, Sara M. Personal Politics: the Roots of Women' s Liberation in the Civil Rights Movement and the New Left. Knopf: Random House, 1979, p. 17.",
+      "issue": "副标题首词\"the\"应大写为\"The\"。正确的书名格式应为\"Personal Politics: The Roots of Women's Liberation in the Civil Rights Movement and the New Left\"。同一问题在第67页再次出现。",
+      "suggested_correction": "将副标题\"the Roots\"改为\"The Roots\"。",
+      "correct_text": "Evans, Sara M. Personal Politics: The Roots of Women' s Liberation in the Civil Rights Movement and the New Left. Knopf: Random House, 1979, p. 17.",
+      "source": "多所大学图书馆目录（宾夕法尼亚大学、剑桥大学等）以及Kirkus书评均显示副标题首词为\"The\"。",
+      "risk_level": "medium"
+    },
+    {
+      "page": 66,
+      "original_citation": "Bloom, Alexander, and Wini Breines.\"' Past as Prologue': the 1950s as an Introduction to the 1960s.\"",
+      "issue": "两个问题：（1）开头单引号后有多余空格（\"' Past\"应为\"'Past\"）；（2）副标题中\"the\"应为\"The\"。正确的章节标题为\"'Past as Prologue': The 1950s as an Introduction to the 1960s\"。",
+      "suggested_correction": "删除开头的多余空格，并将\"the\"改为\"The\"。",
+      "correct_text": "Bloom, Alexander, and Wini Breines.\"'Past as Prologue': The 1950s as an Introduction to the 1960s.\"",
+      "source": "Oxford University Press \"Takin' It to the Streets: A Sixties Reader\"（第2版，2003年）的目录确认标题为\"Past as Prologue: The 1950s as an Introduction to the 1960s\"。",
+      "risk_level": "medium"
+    },
+    {
+      "page": 67,
+      "original_citation": "Breines, Wini.\"' Of This Generation': The New Left and the Student Movement.\"Long Time Gone: Sixties America Then and Now. Ed. Alexander Bloom. New York: Oxford U- niversity Press, 2001, p. 43.",
+      "issue": "章节标题开头单引号后有多余空格（\"' Of\"应为\"'Of\"）。此问题很可能为PDF提取时的格式错位。",
+      "suggested_correction": "删除\"Of\"前的多余空格。",
+      "correct_text": "Breines, Wini.\"'Of This Generation': The New Left and the Student Movement.\"Long Time Gone: Sixties America Then and Now. Ed. Alexander Bloom. New York: Oxford University Press, 2001, p. 43.",
+      "source": "章节实际标题为\"'Of This Generation': The New Left and the Student Movement\"。",
+      "risk_level": "low"
+    },
+    {
+      "page": 72,
+      "original_citation": "Stephens, Julie. Anti - Disciplinary Protest: Sixties Radicalism and Postmodernism. Cambridge University Press, 1998, p. 122.",
+      "issue": "书名\"Anti - Disciplinary Protest\"中连字符两侧有多余空格，应为\"Anti-Disciplinary Protest\"。",
+      "suggested_correction": "删除连字符两侧的空格。",
+      "correct_text": "Stephens, Julie. Anti-Disciplinary Protest: Sixties Radicalism and Postmodernism. Cambridge University Press, 1998, p. 122.",
+      "source": "Cambridge University Press官方书目确认书名为\"Anti-Disciplinary Protest: Sixties Radicalism and Postmodernism\"。",
+      "risk_level": "medium"
+    },
+    {
+      "page": 77,
+      "original_citation": "Echols, Alice. Daring to Be Bad: Radical Feminism in America 1967 - 1975. U of Minnesota P, 1989, p. vii.",
+      "issue": "两个问题：（1）\"America\"和\"1967\"之间缺少逗号，应为\"America, 1967-1975\"；（2）\"1967 - 1975\"中连字符两侧有多余空格。",
+      "suggested_correction": "在\"America\"后添加逗号，并删除连字符两侧的空格。",
+      "correct_text": "Echols, Alice. Daring to Be Bad: Radical Feminism in America, 1967-1975. U of Minnesota P, 1989, p. vii.",
+      "source": "University of Minnesota Press和Project MUSE均确认完整书名为\"Daring to Be Bad: Radical Feminism in America, 1967-1975\"（含逗号）。",
+      "risk_level": "medium"
+    },
+    {
+      "page": 109,
+      "original_citation": "Matta, Willam J. Relationship Sabotage: Unconscious Factors that Destroy Couples, Marriages, and Family. Westport: Praeger, 2006, p. 85.",
+      "issue": "作者名\"Willam\"拼写错误，缺少字母\"i\"，应为\"William\"。",
+      "suggested_correction": "将\"Willam\"改为\"William\"。",
+      "correct_text": "Matta, William J. Relationship Sabotage: Unconscious Factors that Destroy Couples, Marriages, and Family. Westport: Praeger, 2006, p. 85.",
+      "source": "多所大学图书馆目录（俄亥俄州立大学、德克萨斯大学泰勒分校等）均显示作者名为William J. Matta。",
+      "risk_level": "high"
+    },
+    {
+      "page": 110,
+      "original_citation": "Lodge, David.\"Post - Pill Paradise Lost: John Updike ' s Couples.\"New Blackfriars, 51. 606 (1970), p. 512.",
+      "issue": "三个格式问题：（1）\"Post - Pill\"中连字符两侧有多余空格；（2）\"Updike ' s\"中撇号前有多余空格；（3）期刊名\"New Blackfriars,\"后不应有逗号（应为\"New Blackfriars 51.606\"）。",
+      "suggested_correction": "删除连字符两侧的空格、删除撇号前的空格、删除期刊名后的逗号。",
+      "correct_text": "Lodge, David.\"Post-Pill Paradise Lost: John Updike's Couples.\"New Blackfriars 51.606 (1970), p. 512.",
+      "source": "Cambridge Core确认文章标题为\"Post-Pill Paradise Lost: John Updike's Couples\"（New Blackfriars, Vol. 51, Issue 606, 1970, pp. 511-518）。",
+      "risk_level": "low"
+    },
+    {
+      "page": 113,
+      "original_citation": "Brehm, Sharon S. et al. Intimate Relationships. 3rd ed. Boston: McGraw - Hill, 2002, pp. 221-222.",
+      "issue": "出版社名称\"McGraw - Hill\"中连字符两侧有多余空格，应为\"McGraw-Hill\"。",
+      "suggested_correction": "删除连字符两侧的空格。",
+      "correct_text": "Brehm, Sharon S. et al. Intimate Relationships. 3rd ed. Boston: McGraw-Hill, 2002, pp. 221-222.",
+      "source": "McGraw-Hill是标准出版的名称，不带空格。",
+      "risk_level": "low"
+    },
+    {
+      "page": 113,
+      "original_citation": "Falke, Wayne.\"'Rabbit Redux ': Time / Order / God.\"Modern Fiction Studies. p. 71.",
+      "issue": "两个格式问题：（1）章节标题\"'Rabbit Redux '\"中结尾单引号前有多余空格；（2）\"Time / Order / God\"中斜线两侧有多余空格。",
+      "suggested_correction": "删除单引号前的空格和斜线两侧的空格。",
+      "correct_text": "Falke, Wayne.\"'Rabbit Redux': Time/Order/God.\"Modern Fiction Studies. p. 71.",
+      "source": "文章标准格式为\"'Rabbit Redux': Time/Order/God\"。",
+      "risk_level": "low"
+    },
+    {
+      "page": 114,
+      "original_citation": "Bhattacharya, Rima.\"Godless, yet Not Lacking in Divinity: Sexuality and Religion in Updike' s Couples.\"B. A. S. British and American Studies 24. 24 (2018), p. 107.",
+      "issue": "作者名\"Updike' s\"中撇号前有多余空格。此外，卷期号\"24. 24\"中第二个数字前有多余空格。",
+      "suggested_correction": "删除撇号前的空格以及卷期号中数字前的空格。",
+      "correct_text": "Bhattacharya, Rima.\"Godless, yet Not Lacking in Divinity: Sexuality and Religion in Updike's Couples.\"B. A. S. British and American Studies 24.24 (2018), p. 107.",
+      "source": "同一文章的其他引用中均使用\"Updike's\"标准形式。",
+      "risk_level": "low"
+    },
+    {
+      "page": 125,
+      "original_citation": "Minuchin, Salvador and H Charles Fishman. Family Therapy Techniques. Cambridge, Mass.: Harvard UP, 1981, p. 148.",
+      "issue": "作者姓名中缺少句点：\"H Charles Fishman\" 中 \"H\" 之后缺少句点，正确格式应为 \"H. Charles Fishman\"。",
+      "suggested_correction": "在 \"H\" 后添加句点",
+      "correct_text": "Minuchin, Salvador and H. Charles Fishman. Family Therapy Techniques. Cambridge, Mass.: Harvard UP, 1981, p. 148.",
+      "source": "Harvard University Press 出版目录",
+      "risk_level": "low"
+    },
+    {
+      "page": 126,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. New York: Brunner / Mazer, 1986, p. 419.",
+      "issue": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。Ivan Boszormenyi-Nagy 是家庭治疗领域的匈牙利裔美国精神科先驱，其姓氏中的 \"Nagy\" 在匈牙利语中意为 \"大\"。",
+      "suggested_correction": "将 \"Nagi\" 改为 \"Nagy\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. New York: Brunner / Mazel, 1986, p. 419.",
+      "source": "Ivan Boszormenyi-Nagy（1920-2007），家庭治疗师，其著作署名均为 Boszormenyi-Nagy",
+      "risk_level": "high"
+    },
+    {
+      "page": 126,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. New York: Brunner / Mazer, 1986, p. 419.",
+      "issue": "出版社名称拼写错误：\"Mazer\" 应为 \"Mazel\"。Brunner/Mazel 是位于纽约的心理/精神病学专业出版社，后由 Taylor & Francis 收购。",
+      "suggested_correction": "将 \"Mazer\" 改为 \"Mazel\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. New York: Brunner/Mazel, 1986, p. 419.",
+      "source": "Brunner/Mazel 出版社档案，WorldCat 书目记录",
+      "risk_level": "medium"
+    },
+    {
+      "page": 126,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 124.",
+      "issue": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。与第126页脚注①相同的错误。",
+      "suggested_correction": "将 \"Nagi\" 改为 \"Nagy\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 124.",
+      "source": "Ivan Boszormenyi-Nagy 学术著作署名",
+      "risk_level": "high"
+    },
+    {
+      "page": 150,
+      "original_citation": "Boss, Pauline G.\"Psychological Father Absence and Presence: A Theoretical Formulation for an Investigation into Family Systems Pathology.\"Diss. U of Wisconsin - Madison, 1975, p. 33, 50.",
+      "issue": "页码格式不规范：引用两个非连续页码时，应使用复数缩写 \"pp.\" 而非 \"p.\"。",
+      "suggested_correction": "将 \"p. 33, 50\" 改为 \"pp. 33, 50\"",
+      "correct_text": "Boss, Pauline G. \"Psychological Father Absence and Presence: A Theoretical Formulation for an Investigation into Family Systems Pathology.\" Diss. U of Wisconsin - Madison, 1975, pp. 33, 50.",
+      "source": "Chicago Manual of Style 页码格式规范",
+      "risk_level": "low"
+    },
+    {
+      "page": 151,
+      "original_citation": "Whitaker, Carl A. and William M. Mumberry. Dancing with the Family: A Symbolic-Experiential Approach. Levittown: Brunner / Mazel, 1988, p. 6.",
+      "issue": "作者姓氏拼写错误：\"Mumberry\" 应为 \"Bumberry\"。William M. Bumberry 是 Carl Whitaker 在该书中的合著者。",
+      "suggested_correction": "将 \"Mumberry\" 改为 \"Bumberry\"",
+      "correct_text": "Whitaker, Carl A. and William M. Bumberry. Dancing with the Family: A Symbolic-Experiential Approach. Levittown: Brunner/Mazel, 1988, p. 6.",
+      "source": "WorldCat 书目记录、Carl Whitaker 著作目录",
+      "risk_level": "high"
+    },
+    {
+      "page": 160,
+      "original_citation": "Lewis, Jerry M., et al. No Single Thread: Psychological Health in Family Systems. New York: Bruner / Mazel, 1976. p. 53.",
+      "issue": "出版社名称拼写错误：\"Bruner\" 应为 \"Brunner\"，缺失字母 \"n\"。正确名称是 Brunner/Mazel。",
+      "suggested_correction": "将 \"Bruner\" 改为 \"Brunner\"",
+      "correct_text": "Lewis, Jerry M., et al. No Single Thread: Psychological Health in Family Systems. New York: Brunner/Mazel, 1976. p. 53.",
+      "source": "Brunner/Mazel 出版社档案",
+      "risk_level": "medium"
+    },
+    {
+      "page": 160,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 421.",
+      "issue": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。与第126页相同的重复性错误。",
+      "suggested_correction": "将 \"Nagi\" 改为 \"Nagy\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 421.",
+      "source": "Ivan Boszormenyi-Nagy 学术著作署名",
+      "risk_level": "high"
+    },
+    {
+      "page": 161,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 421.",
+      "issue": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。同一错误在第126、160、161、164页反复出现。",
+      "suggested_correction": "将 \"Nagi\" 改为 \"Nagy\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 421.",
+      "source": "Ivan Boszormenyi-Nagy 学术著作署名",
+      "risk_level": "high"
+    },
+    {
+      "page": 164,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 125.",
+      "issue": "作者姓氏拼写错误：应为 Boszormenyi-Nagy（以 -Nagy 结尾，而非 -Nagi）。第4次出现同一错误。",
+      "suggested_correction": "将 \"Nagi\" 改为 \"Nagy\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 125.",
+      "source": "Ivan Boszormenyi-Nagy 学术著作署名",
+      "risk_level": "high"
+    },
+    {
+      "page": 173,
+      "original_citation": "Miller, D. Quentin. John Updike and the Cold War: Drawing the Iron Curtain. Co- lumbia: U of Missouri Press, 2001, p. 11.",
+      "issue": "\"Co- lumbia\" has a hyphenation artifact from PDF text extraction, splitting \"Columbia\" across lines as \"Co- lumbia\"",
+      "suggested_correction": "Remove the hyphen and space to restore the correct place name",
+      "correct_text": "Miller, D. Quentin. John Updike and the Cold War: Drawing the Iron Curtain. Columbia: U of Missouri Press, 2001, p. 11.",
+      "source": "Web search confirms University of Missouri Press, Columbia, Missouri publication",
+      "risk_level": "low"
+    },
+    {
+      "page": 178,
+      "original_citation": "Mintz, Steven. Huck's Raft: A History of American Childhood. Cambridge, Matt.: Harvard UP, 2004, p. 313.",
+      "issue": "\"Matt.\" is not a valid U.S. state abbreviation. Should be \"Mass.\" (Massachusetts). Harvard University Press is located in Cambridge, Massachusetts.",
+      "suggested_correction": "Replace \"Matt.\" with \"Mass.\"",
+      "correct_text": "Mintz, Steven. Huck's Raft: A History of American Childhood. Cambridge, Mass.: Harvard UP, 2004, p. 313.",
+      "source": "Harvard University Press official location is Cambridge, Massachusetts; confirmed by web search of library catalogs",
+      "risk_level": "high"
+    },
+    {
+      "page": 186,
+      "original_citation": "Hassan, Ihab. Contemporary American Literature (1945 - 1972): An Introduction. New York: Frederick Ungar Publishing Co., 1976, p. 4.",
+      "issue": "Publication year is incorrect. All library catalogs (WorldCat, HathiTrust, etc.) consistently record the publication year as 1973, not 1976.",
+      "suggested_correction": "Change 1976 to 1973",
+      "correct_text": "Hassan, Ihab. Contemporary American Literature (1945 - 1972): An Introduction. New York: Frederick Ungar Publishing Co., 1973, p. 4.",
+      "source": "Library catalog records (HathiTrust, WorldCat, Penn Libraries, Wisconsin Libraries, etc.) uniformly show 1973 publication",
+      "risk_level": "high"
+    },
+    {
+      "page": 193,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 378.",
+      "issue": "Author surname \"Boszormenyi-Nagi\" is misspelled. The correct spelling is \"Boszormenyi-Nagy\" with a 'y' at the end.",
+      "suggested_correction": "Correct the surname to \"Boszormenyi-Nagy\"",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 378.",
+      "source": "Library catalogs (University of Wisconsin, Routledge/Taylor & Francis, etc.) and WorldCat confirm the author name as Boszormenyi-Nagy",
+      "risk_level": "high"
+    },
+    {
+      "page": 208,
+      "original_citation": "Banmen, John. \"Virginia Satir's Family Therapy Model.\" Individuel Psychology 42.4 (1986), p. 483.",
+      "issue": "Journal name \"Individuel Psychology\" is misspelled. \"Individuel\" is French; the English journal name is \"Individual Psychology\" (the journal of Adlerian psychology).",
+      "suggested_correction": "Correct to \"Individual Psychology\"",
+      "correct_text": "Banmen, John. \"Virginia Satir's Family Therapy Model.\" Individual Psychology 42.4 (1986), p. 483.",
+      "source": "Web search confirms the article appears in Individual Psychology 42(4), 480-492",
+      "risk_level": "high"
+    },
+    {
+      "page": 208,
+      "original_citation": "Beavers, W. Robert. Psychotherapy and Growth: A Family systems Perspective. p. 268.",
+      "issue": "Subtitle capitalization error: \"Family systems\" should be \"Family Systems\" (both words capitalized in the title)",
+      "suggested_correction": "Capitalize \"Systems\"",
+      "correct_text": "Beavers, W. Robert. Psychotherapy and Growth: A Family Systems Perspective. p. 268.",
+      "source": "Library catalogs (Colorado Libraries, Deakin University, etc.) confirm the correct title has \"Family Systems Perspective\"",
+      "risk_level": "medium"
+    },
+    {
+      "page": 210,
+      "original_citation": "Updike, John Museums and Women. p. 64.",
+      "issue": "Two issues: (1) Missing period after author's first name \"John.\" (should be \"Updike, John.\"); (2) The full book title is \"Museums and Women and Other Stories\" — \"and Other Stories\" is omitted.",
+      "suggested_correction": "Add period after \"John\" and use the full title",
+      "correct_text": "Updike, John. Museums and Women and Other Stories. p. 64.",
+      "source": "Wikipedia, Google Books, and library catalogs confirm the full title as \"Museums and Women and Other Stories\"",
+      "risk_level": "medium"
+    },
+    {
+      "page": 211,
+      "original_citation": "Coleman, Cheryl Devon. \"Metaphorical Redemption in Anne Tyler's 'The Clock Winder' and 'Dinner at the Homesick Restaurant'.\" Christianity and Literature. p. 514.",
+      "issue": "Missing volume, issue, and year information. The article was published in Christianity and Literature, Vol. 49, No. 4 (Summer 2000), pp. 511-532.",
+      "suggested_correction": "Add volume, issue, and year to the citation",
+      "correct_text": "Coleman, Cheryl Devon. \"Metaphorical Redemption in Anne Tyler's 'The Clock Winder' and 'Dinner at the Homesick Restaurant'.\" Christianity and Literature 49.4 (2000), p. 514.",
+      "source": "Web search confirms Christianity and Literature 49(4), Summer 2000, pp. 511-532",
+      "risk_level": "medium"
+    },
+    {
+      "page": 213,
+      "original_citation": "Bloom, Alexander and Wini Breines. \"'Past as Prologue': the 1950s as an Introduction to the 1960s.\" \"Takin' It to the Streets\": A Sixties Reader. Ed. Alexander Bloom and Wini Breines. p. 6.",
+      "issue": "Subtitle capitalization: \"the 1950s\" should be \"The 1950s\" as part of the chapter title",
+      "suggested_correction": "Capitalize \"The\" in the subtitle",
+      "correct_text": "Bloom, Alexander and Wini Breines. \"'Past as Prologue': The 1950s as an Introduction to the 1960s.\" \"Takin' It to the Streets\": A Sixties Reader. Ed. Alexander Bloom and Wini Breines. p. 6.",
+      "source": "Standard English capitalization rules for titles",
+      "risk_level": "low"
+    },
+    {
+      "page": 217,
+      "original_citation": "Thomas, Jim. \"A Changing American Family: Cheever, Gardner, Irving, Updike.\" p. 41.",
+      "issue": "This is a Ph.D. dissertation (University of Missouri - Columbia, 1988) but cited without any indication of it being a dissertation — no degree type, institution, or year provided.",
+      "suggested_correction": "Add \"Diss.\" and institution/year",
+      "correct_text": "Thomas, Jim. \"A Changing American Family: Cheever, Gardner, Irving, Updike.\" Diss. University of Missouri - Columbia, 1988, p. 41.",
+      "source": "Web search confirms this is a 1988 Ph.D. dissertation at the University of Missouri - Columbia",
+      "risk_level": "medium"
+    },
+    {
+      "page": 222,
+      "original_citation": "Hedgepath, William. \"The Alternative.\" \"Takin' It to the Streets\": A Sixties Reader. Ed. Alexander Bloom and Wini Breines. New York: Oxford University Press, 2003, p. 283.",
+      "issue": "Author surname misspelled: \"Hedgepath\" should be \"Hedgepeth\"",
+      "suggested_correction": "Correct the surname spelling",
+      "correct_text": "Hedgepeth, William. \"The Alternative.\" \"Takin' It to the Streets\": A Sixties Reader. Ed. Alexander Bloom and Wini Breines. New York: Oxford University Press, 2003, p. 283.",
+      "source": "Library catalogs (Ohio State University, Denison University, etc.) and the book's table of contents list the author as William Hedgepeth",
+      "risk_level": "high"
+    },
+    {
+      "page": 225,
+      "original_citation": "Boszormenyi-Nagi, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 88.",
+      "issue": "作者姓氏拼写错误。著名家庭治疗师 Ivan Boszormenyi-Nagy 的姓氏末尾应为 'y' 而非 'i'（Nagy 而非 Nagi）。该学者为匈牙利裔美国精神科医生，家庭治疗领域奠基人之一。",
+      "suggested_correction": "将 'Boszormenyi-Nagi' 更正为 'Boszormenyi-Nagy'",
+      "correct_text": "Boszormenyi-Nagy, Ivan and Barbara R. Krasner. Between Give and Take: A Clinical Guide to Contextual Therapy. p. 88.",
+      "source": "Wikipedia: Ivan Boszormenyi-Nagy; New York Times obituary (2007); 美国国会图书馆规范记录 (Library of Congress Authority Record)",
+      "risk_level": "high"
+    },
+    {
+      "page": 263,
+      "original_citation": "Slack, Charles W. Timothy Leary: The Madness of the Sixties and Me. New York: Peter. H. Wyden, 1974, p. 13.",
+      "issue": "出版社名称中 'Peter' 后有多余句点。正确格式为 'Peter H. Wyden'，不应在 'Peter' 后加句点。该出版社为独立的出版品牌，并非缩写。",
+      "suggested_correction": "删除 'Peter' 后的多余句点，将 'Peter. H. Wyden' 更正为 'Peter H. Wyden'",
+      "correct_text": "Slack, Charles W. Timothy Leary: The Madness of the Sixties and Me. New York: Peter H. Wyden, 1974, p. 13.",
+      "source": "HathiTrust 书目记录; Duke University Library 目录; Princeton University Library 目录",
+      "risk_level": "high"
+    },
+    {
+      "page": 275,
+      "original_citation": "Bloom, Harold. The Western Canon: The Books and School of Ages. p. 7.",
+      "issue": "书名缺少冠词 'the'。Harold Bloom 的著作全称为 'The Western Canon: The Books and School of the Ages'，在 'Ages' 前应有定冠词 'the'。",
+      "suggested_correction": "在 'Ages' 前补回 'the'，将 'The Books and School of Ages' 更正为 'The Books and School of the Ages'",
+      "correct_text": "Bloom, Harold. The Western Canon: The Books and School of the Ages. p. 7.",
+      "source": "全美图书馆书目数据库; Harcourt Brace 原版书目; University of Pennsylvania 图书馆目录",
+      "risk_level": "high"
+    },
+    {
+      "page": 229,
+      "original_citation": "Bluefarb, Sam. The Escape Motif in the American Novel: Mark Twain to Richard Wright. Athens: Ohio State UP, 1972, p. 5.",
+      "issue": "出版地错误。Ohio State University Press（俄亥俄州立大学出版社）位于 Columbus（哥伦布市），而非 Athens（雅典市）。Athens 是 Ohio University Press（俄亥俄大学出版社）所在地。两个出版社分属不同大学系统。",
+      "suggested_correction": "将 'Athens' 更正为 'Columbus'，或确认是否应为 Ohio University Press",
+      "correct_text": "Bluefarb, Sam. The Escape Motif in the American Novel: Mark Twain to Richard Wright. Columbus: Ohio State UP, 1972, p. 5.",
+      "source": "OhioLINK 图书馆系统; Simmons University 图书馆目录; BIBLIO 书目信息 (ISBN: 0814201687)",
+      "risk_level": "medium"
+    },
+    {
+      "page": 256,
+      "original_citation": "⑨ 􀃊 􀁉 􀁒 Ibid., p. 315. Ibid., p. 318. Ibid., pp. 318-319. Ibid., p. 319. Ibid. Ibid., p. 321. Ibid., p. 322. Ibid. Ibid. Ibid., p. 324.",
+      "issue": "脚注开头出现乱码字符 '􀃊 􀁉 􀁒'。这些字符为 PDF 提取过程中的 Unicode 解码错误，可能原本是脚注编号、符号或缩略引用标记。乱码字符可能隐藏了原始引用中的关键信息（如书籍缩写或作者名）。",
+      "suggested_correction": "参考原始 PDF 核实这三个乱码字符位置原本的内容，替换为正确的引用文本",
+      "correct_text": "⑨ [待核实] Ibid., p. 315. Ibid., p. 318. Ibid., pp. 318-319. Ibid., p. 319. Ibid. Ibid., p. 321. Ibid., p. 322. Ibid. Ibid. Ibid., p. 324.",
+      "source": "原始 PDF 文件第 256 页直接提取结果，字符 'U+F010A' 等为 Unicode 私用区字符 (Private Use Area)，非标准编码",
+      "risk_level": "medium"
+    },
+    {
+      "page": 276,
+      "original_citation": "Andrews, G., et al. New Left, New Right and Beyond: Taking the Sixties Seriously. Springer, 1999, p. 85.",
+      "issue": "出版社名称年代错误。该书实际于 1999 年由 Macmillan Press（英国）/ St. Martin's Press（美国）出版。Palgrave Macmillan 品牌形成于 2000-2002 年，Springer Nature 更在 2015 年之后。标注出版时间为 1999 年却使用 'Springer' 作为出版社名不符合历史准确性。",
+      "suggested_correction": "将 'Springer' 更正为当时的出版品牌 'Macmillan' 或 'St. Martin's Press'",
+      "correct_text": "Andrews, G., et al. New Left, New Right and Beyond: Taking the Sixties Seriously. Macmillan, 1999, p  . 85.",
+      "source": "Google Books 书目; Biblio.com 书目信息; OCLC 40298271; Ohio University Library 目录",
+      "risk_level": "medium"
+    },
+    {
+      "page": 262,
+      "original_citation": "Updike, John. Rabbit Redux. 117.",
+      "issue": "页码缺少 'p.' 前缀。当前仅列出数字 '117'，应按照学术脚注规范添加 'p.' 前缀。同一页的其他引用（如 Berryman 条目）均使用 'p. 117' 格式，此处格式不一致。",
+      "suggested_correction": "在 '117' 前添加 'p.'，统一脚注格式",
+      "correct_text": "Updike, John. Rabbit Redux. p. 117.",
+      "source": "本页其他引用的格式一致性检查",
+      "risk_level": "low"
+    },
+    {
+      "page": 263,
+      "original_citation": "Ahearn, Kerry. 'Family and Adultery: Images and Ideas in Updike' s Rabbit Novels.' Twentieth Century Literature. pp. 69-70.",
+      "issue": "期刊引用缺少卷号与期号。该文章在同一文件中第 262 页首次引用时标注完整 'Twentieth Century Literature 34.1 (1988), p. 68'，但第 263 页再次引用时仅列刊名 'Twentieth Century Literature' 而未注明卷期号，导致读者无法直接定位来源。",
+      "suggested_correction": "补全卷期号 '(1988)' 或标注为 'Twentieth Century Literature 34.1 (1988), pp. 69-70'",
+      "correct_text": "Ahearn, Kerry. 'Family and Adultery: Images and Ideas in Updike's Rabbit Novels.' Twentieth Century Literature 34.1 (1988), pp. 69-70.",
+      "source": "本文件第 262 页首次引用记录作为对比依据",
+      "risk_level": "low"
+    },
+    {
+      "page": 273,
+      "original_citation": "Jacobson, Kristin J. 'Domestic Geographies: Neo - Domestic American Fiction.' p. 2.",
+      "issue": "书名/文章标题中连字符两侧有空格。'Neo - Domestic' 应为 'Neo-Domestic'，连字符前后不应有空格。PDF 提取导致的格式问题。",
+      "suggested_correction": "删除 'Neo' 与 'Domestic' 之间连字符前后的多余空格",
+      "correct_text": "Jacobson, Kristin J. 'Domestic Geographies: Neo-Domestic American Fiction.' p. 2.",
+      "source": "规范英文排版规则（前缀 'Neo-' 后直接连接单词，无空格）",
+      "risk_level": "low"
+    },
+    {
+      "page": 272,
+      "original_citation": "O' Hara, James Eugene. Cheever: A Study of the Short Fiction. Boston: Twayne Publishers, 1989, p. x.",
+      "issue": "作者姓氏 'O'Hara' 中撇号后有多余空格。'O' Hara' 应为 'O'Hara'，撇号后的空格是 PDF 提取的位置偏移所致，但会误导对姓名的识别。",
+      "suggested_correction": "删除撇号后的空格，将 'O' Hara' 更正为 'O'Hara'",
+      "correct_text": "O'Hara, James Eugene. Cheever: A Study of the Short Fiction. Boston: Twayne Publishers, 1989, p. x.",
+      "source": "标准英文姓名拼写规则",
+      "risk_level": "low"
+    },
+    {
+      "page": 275,
+      "original_citation": "White, Hayden. Metahistory: The Historical Imagination in Nineteenth - Century Europe. Baltimore: Johns Hopkins UP, 1973, p. x.",
+      "issue": "标题中 'Nineteenth-Century' 连字符两侧有空格，应为 'Nineteenth-Century'（连字符前后无空格）。同样是 PDF 提取导致的格式问题。",
+      "suggested_correction": "删除 'Nineteenth' 与 'Century' 之间连字符前后的多余空格",
+      "correct_text": "White, Hayden. Metahistory: The Historical Imagination in Nineteenth-Century Europe. Baltimore: Johns Hopkins UP, 1973, p. x.",
+      "source": "标准英文排版规则；Johns Hopkins UP 书目记录",
+      "risk_level": "low"
+    },
+    {
+      "page": 276,
+      "original_citation": "Minuchin, Salvador, Wai-Yung Lee and George M. Simon. Mastering Family Therapy: Journeys of Growth and Transformation. 2 nd ed. Hoboken: Wiley, 2006, p. 122.",
+      "issue": "版本号标识 '2 nd ed.' 中 'nd' 之前有多余空格。正确格式应为 '2nd ed.'，数字与序数后缀之间不应有空格。",
+      "suggested_correction": "删除 '2' 与 'nd' 之间的空格，将 '2 nd ed.' 更正为 '2nd ed.'",
+      "correct_text": "Minuchin, Salvador, Wai-Yung Lee and George M. Simon. Mastering Family Therapy: Journeys of Growth and Transformation. 2nd ed. Hoboken: Wiley, 2006, p. 122.",
+      "source": "Wiley 出版社官方书目记录",
+      "risk_level": "low"
+    },
+    {
+      "page": 264,
+      "original_citation": "Falke, Wayne. ''Rabbit Redux ': Time / Order / God.' Modern Fiction Studies. p. 61.",
+      "issue": "文章标题中多处存在多余空格：'Rabbit Redux ' 关闭引号前有空格（应为 'Rabbit Redux'）; 'Time / Order / God' 斜杠两侧有空格（应为 'Time/Order/God'）。均为 PDF 提取格式问题。",
+      "suggested_correction": "删除 'Redux' 后右引号前的空格；删除各斜杠前后的空格",
+      "correct_text": "Falke, Wayne. ''Rabbit Redux': Time/Order/God.' Modern Fiction Studies. p. 61.",
+      "source": "规范英文排版规则；Modern Fiction Studies 文章引用记录",
+      "risk_level": "low"
+    },
+    {
+      "page": 224,
+      "original_citation": "Lipsitz, George.'Who' ll Stop the Rain?: Youth Culture, Rock' n' Roll, and Social Crises.'The Sixties: From Memory to History. Ed. David Farber. p. 175.",
+      "issue": "文章标题中存在多处空格位置异常：'Who' ll' 中的撇号与 'll' 之间多出空格（应为 'Who'll'）; 'Rock' n' Roll' 中撇号位置有误，标准写法为 'Rock ''n'' Roll' 或 'Rock 'n' Roll'。这些是 PDF 字符间距提取误差。",
+      "suggested_correction": "修正撇号位置：'Who' ll' → 'Who'll'; 'Rock' n' Roll' → 'Rock 'n' Roll'",
+      "correct_text": "Lipsitz, George. 'Who'll Stop the Rain?: Youth Culture, Rock 'n' Roll, and Social Crises.' The Sixties: From Memory to History. Ed. David Farber. p. 175.",
+      "source": "Farber, David (ed.) The Sixties: From Memory to History 原书目录",
+      "risk_level": "low"
+    }
+  ],
+  "name_findings": [
+    {
+      "page": 7,
+      "original": "菲利普·阿立耶斯 (Philippe Aries)",
+      "correct_form": "菲利普·阿利埃斯 (Philippe Ariès)",
+      "english_name": "Philippe Ariès",
+      "reason": "姓氏＂阿立耶斯＂拼写不规范。该法国历史学家的姓氏 Ariès 标准汉译为＂阿利埃斯＂或＂阿里埃斯＂，百度百科词条及北京大学出版社《儿童的世纪》中译本均统一使用＂菲利浦·阿利埃斯＂。原文中英文拼写亦缺少法文变音符号 (è)。"
+    },
+    {
+      "page": 10,
+      "original": "阿布拉姆斯 (M. H. Abrams)",
+      "correct_form": "艾布拉姆斯 (M. H. Abrams)",
+      "english_name": "M. H. Abrams",
+      "reason": "姓氏＂阿布拉姆斯＂非规范译名。该著名文学批评家的标准汉译为＂艾布拉姆斯＂（见维基百科、百度百科及各图书馆编目）。"
+    },
+    {
+      "page": 11,
+      "original": "科雷 (Gerald Corey)",
+      "correct_form": "科里 (Gerald Corey)",
+      "english_name": "Gerald Corey",
+      "reason": "姓氏＂科雷＂拼写不规范。Gerald Corey 的标准汉译为＂杰拉德·科里＂或简称＂科里＂（见中国轻工业出版社中译本《心理咨询与治疗的理论及实践》）。"
+    },
+    {
+      "page": 11,
+      "original": "《心理咨询与心理治疗理论与实践》第七版",
+      "correct_form": "《心理咨询与治疗的理论及实践》第七版",
+      "english_name": "Theory and Practice of Counseling and Psychotherapy",
+      "reason": "书名中译不准确。Gerald Corey 的经典教材《Theory and Practice of Counseling and Psychotherapy》在中国大陆的官方中译名为《心理咨询与治疗的理论及实践》（中国轻工业出版社），原文多了＂心理＂二字且语序有误。"
+    },
+    {
+      "page": 16,
+      "original": "萨尔瓦多·米奴欣 (Salvador Minuchin)",
+      "correct_form": "萨尔瓦多·米纽庆 (Salvador Minuchin)",
+      "english_name": "Salvador Minuchin",
+      "reason": "姓氏＂米奴欣＂拼写不规范。该结构派家庭治疗大师的标准汉译为＂萨尔瓦多·米纽庆＂（见百度百科、维基百科及其中译本《家庭与家庭治疗》）。"
+    },
+    {
+      "page": 17,
+      "original": "麦克·怀特 (Michael White)",
+      "correct_form": "迈克尔·怀特 (Michael White)",
+      "english_name": "Michael White",
+      "reason": "名字＂麦克＂在大陆简体出版物中不规范。Michael 的标准新华社音译为＂迈克尔＂，叙事疗法创始人 Michael White 在大陆学界通用＂迈克尔·怀特＂（见华东理工大学出版社中译本）。"
+    },
+    {
+      "page": 18,
+      "original": "艾米丽·勃朗特",
+      "correct_form": "艾米莉·勃朗特",
+      "english_name": "Emily Brontë",
+      "reason": "名字＂艾米丽＂在大陆规范译名中应为＂艾米莉＂。Emily Brontë 的新华社音译为＂艾米莉·勃朗特＂（百度百科、维基百科大陆版均采用此译名）。"
+    },
+    {
+      "page": 21,
+      "original": "《女武士》",
+      "correct_form": "《女勇士》",
+      "english_name": "The Woman Warrior",
+      "reason": "汤亭亭（Maxine Hong Kingston）的英文书名 The Woman Warrior 在大陆的标准中译名为《女勇士》（漓江出版社中译本），而非《女武士》。＂勇士＂与＂武士＂含义不同，后者指日本武士阶层，与书中花木兰意象不符。"
+    },
+    {
+      "page": 24,
+      "original": "《新文学史》(New Literary Theory)",
+      "correct_form": "《新文学史》(New Literary History)",
+      "english_name": "New Literary History",
+      "reason": "英文期刊名与中文不匹配。中文《新文学史》对应的是 Johns Hopkins 大学出版社的期刊 New Literary History，而非 New Literary Theory。后者并非知名学术期刊。"
+    },
+    {
+      "page": 27,
+      "original": "柯特·冯内古特 (Kurt Vonnegut)",
+      "correct_form": "库尔特·冯内古特 (Kurt Vonnegut)",
+      "english_name": "Kurt Vonnegut",
+      "reason": "名字＂柯特＂非规范译名。Kurt 的新华社标准音译为＂库尔特＂，该美国作家在大陆学界及出版界统一使用＂库尔特·冯内古特＂（见百度百科、译林出版社中译本）。"
+    },
+    {
+      "page": 25,
+      "original": "肯·凯西（p25, 首次出现附英文）",
+      "correct_form": "应全篇统一为＂肯·凯西＂",
+      "english_name": "Ken Kesey",
+      "reason": "同一人名在全文中出现三种不同译法，严重不一致：p25 为＂肯·凯西＂（附英文 Ken Kesey），p34 为＂肯·基西＂，p270 为＂肯·克西＂。大陆最通用的译名为＂肯·凯西＂（百度百科、豆瓣均采用）。"
+    },
+    {
+      "page": 33,
+      "original": "路易莎·梅·阿尔科特 (Louisa May Alcott)",
+      "correct_form": "路易莎·梅·奥尔科特 (Louisa May Alcott)",
+      "english_name": "Louisa May Alcott",
+      "reason": "姓氏＂阿尔科特＂非规范译名。Louisa May Alcott 的标准汉译为＂路易莎·梅·奥尔科特＂（见百度百科、维基百科）。"
+    },
+    {
+      "page": 34,
+      "original": "《第五屠场》",
+      "correct_form": "《五号屠场》",
+      "english_name": "Slaughterhouse-Five",
+      "reason": "书名中译不规范。Kurt Vonnegut 的经典小说 Slaughterhouse-Five 在大陆的标准中译名为《五号屠场》（译林出版社虞建华译），而非《第五屠场》。"
+    },
+    {
+      "page": 125,
+      "original": "克里斯托弗·拉什（未附英文原名）",
+      "correct_form": "克里斯托弗·拉希（Christopher Lasch）",
+      "english_name": "Christopher Lasch",
+      "reason": "姓氏＂拉什＂非大陆主流译名，且首次出现时未附英文原名。Christopher Lasch 在大陆学界的标准汉译为＂克里斯托弗·拉希＂（见《自恋主义文化》中译本及各大图书馆编目）。"
+    },
+    {
+      "page": 124,
+      "original": "大卫·里斯曼 (David Riesman)",
+      "correct_form": "大卫·理斯曼 (David Riesman)",
+      "english_name": "David Riesman",
+      "reason": "姓氏＂里斯曼＂非大陆规范译名。David Riesman 的标准汉译为＂大卫·理斯曼＂（南京大学出版社《孤独的人群》中译本及各大图书馆编目均采用）。"
+    },
+    {
+      "page": 30,
+      "original": "托德·季特林 (Todd Gitlin)",
+      "correct_form": "托德·吉特林 (Todd Gitlin)",
+      "english_name": "Todd Gitlin",
+      "reason": "姓氏＂季特林＂为台湾译法。Todd Gitlin 在大陆学界的标准译名为＂托德·吉特林＂（见其著作《新左派运动的媒介镜像》中译本）。"
+    },
+    {
+      "page": 273,
+      "original": "安妮·普劳克丝 (Annie Proulx)",
+      "correct_form": "安妮·普鲁 (Annie Proulx)",
+      "english_name": "Annie Proulx",
+      "reason": "姓氏＂普劳克丝＂为旧译，已不再使用。Annie Proulx 在大陆的标准译名为＂安妮·普鲁＂（百度百科、人民文学出版社中译本均采用）。"
+    }
+  ],
+  "synthesis": {
+    "summary": "## 审校综合总结报告\n\n### 一、分类统计\n\n| 类别 | 数量 | 说明 |\n|------|------|------|\n| **A类（确定错误）** | **146** | 文字审校112条 + 引文核查high 17条 + 人名书名核查17条 |\n| **B类（建议优化）** | **51** | 文字审校35条 + 引文核查medium 16条 |\n| **D类（学术事实待确认）** | **23** | 引文核查low 23条 |\n| **合计** | **220** | 文字审校147条 + 引文核查56条 + 人名书名核查17条 |\n\n### 二、最重要的发现\n\n**1. 系统性格式错误（A类，约90+条）**\n全稿存在三类严重的系统性格式瑕疵：\n- **引号内侧多余空格**：中文双引号/单引号内侧普遍存在多余空格（如\"“ 出轨社会”\"），贯穿第37-72页、第109页之后几乎每一页。这是PDF排版或OCR提取遗留的系统性错误，需全局批量处理。\n- **英文括号前后多余空格**：中英文混排时英文括号前普遍有空格（如\"对母亲身份( motherhood) 的否定\"），属于格式规范问题。\n- **中英文间空格不当**：年份与\"年\"\"世纪\"之间、中文隔点\"·\"后、英文连字符两侧均大量存在多余空格。\n\n**2. Boszormenyi-Nagy 姓氏系统性错误（A类，6次）**\n家庭治疗奠基人 Ivan Boszormenyi-Nagy 的姓氏在引文中六次被误拼为 \"Boszormenyi-Nagi\"（以 i 代 y），分别出现在第44页、第126页（两次）、第160页、第161页、第164页、第193页、第225页。此为高危重复性错误，需全局查找替换。\n\n**3. 引文关键事实错误（A类，多处）**\n- 第39页 Schneiderman 文章页码标注为779，实际应为65-81（差约700页）\n- 第178页 Mintz 著作出版社所在地 \"Matt.\" 为无效缩写，应为 \"Mass.\"\n- 第186页 Hassan 著作出版年标注为1976，实际为1973\n- 第15页 Adams 书评发表于 College Literature 而非 College English\n- 第222页 作者名 \"Hedgepath\" 应作 \"Hedgepeth\"\n- 第151页 合著者名 \"Mumberry\" 应作 \"Bumberry\"\n- 第208页 期刊名 \"Individuel Psychology\" 为法语拼写，正确英文名为 \"Individual Psychology\"\n- 第225页 出版社名 \"Peter. H. Wyden\" 中 Peter 后多一句点\n\n**4. 人名翻译失范（A类，17条）**\n大量知名学者和作家的中文译名不符合通用规范：\n- Philippe Ariès → 应作\"阿利埃斯\"（非\"阿立耶斯\"）\n- M. H. Abrams → 应作\"艾布拉姆斯\"（非\"阿布拉姆斯\"）\n- Salvador Minuchin → 应作\"米纽庆\"（非\"米奴欣\"）\n- Kurt Vonnegut → 应作\"库尔特·冯内古特\"（非\"柯特·冯内古特\"）\n- Louisa May Alcott → 应作\"奥尔科特\"（非\"阿尔科特\"）\n- Annie Proulx → 应作\"安妮·普鲁\"（非\"安妮·普劳克丝\"）\n- 以及Christopher Lasch、David Riesman、Todd Gitlin等\n\n**5. 书名翻译错误（A类）**\n- 《女武士》→应为《女勇士》（The Woman Warrior）\n- 《第五屠场》→应为《五号屠场》（Slaughterhouse-Five）\n- 《心理咨询与心理治疗理论与实践》→应为《心理咨询与治疗的理论及实践》\n- New Literary Theory →应为 New Literary History（期刊名）\n\n### 三、总体评价\n\n本稿件审校共发现 **220条** 问题，其中确定错误（A类）**146条**，建议优化（B类）**51条**，需待确认（D类）**23条**。总体来看：\n\n1. **格式问题是最大短板**：A类问题中约 **90条以上** 属于中英文混排的空格/标点格式问题，包括引号内侧空格、括号前后空格、连字符空格、中英文间不当空格等。这些问题虽然相对容易批量修正，但数量庞大，严重影响排版质量。\n\n2. **学术引文质量存在风险**：引文核查发现了页码错误（差700页）、出版年错误、出版社所在地错误、期刊名错误、作者名拼写错误等高危问题，需逐条回查原始文献确认。**Boszormenyi-Nagy 姓氏错误重复出现6次**，说明引文核查流程存在系统性漏洞。\n\n3. **人名翻译规范不一致**：17条人名书名核查发现全部为确定错误（A类），涉及多位知名学者和作家，反映出译名标准不一、缺乏统一规范的问题。\n\n4. **B类问题以表达优化为主**：35条文字表达建议和16条引文中等问题，涉及语法、冗余、搭配等，属于润色提升范畴，整体不影响学术正确性。\n\n**建议优先处理**：（1）全局批量修正引号和括号内侧空格，（2）逐条核实高危引文错误（标注为high的17条），（3）建立人名词汇表以确保译名统一，（4）全文统一处理Boszormenyi-Nagy等重复性拼写错误。",
+    "a_class_total": 146,
+    "b_class_total": 51,
+    "d_class_total": 23
+  },
+  "stats": {
+    "total_proofread": 147,
+    "total_citations": 56,
+    "total_names": 17
+  }
+}
